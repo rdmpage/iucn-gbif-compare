@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 23115.0, "binomial": "Xenomys nelsoni", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Xenomys", "code": "EN", "shape_Leng": 5.2722725297400004, "shape_Area": 0.40836024136400001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -105.308574791999945, 19.73556506500006 ], [ -104.972410086999957, 19.766369780000048 ], [ -104.498491292999972, 19.556748561000063 ], [ -104.714809626999966, 19.366850786000043 ], [ -104.199608707999971, 19.325568661000034 ], [ -104.211167702999944, 19.112552896000068 ], [ -103.922408684999937, 19.202726837000057 ], [ -103.827919466999958, 18.760921167000049 ], [ -104.961769103999984, 19.313524246000043 ], [ -105.308574791999945, 19.73556506500006 ] ] ] } }
+]
+}
