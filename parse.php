@@ -1,5 +1,8 @@
 <?php
 
+// Given a list of species extract GeoJSON from IUCN shape files
+
+$shp_dir = dirname(__FILE__) . '/data';
 
 $filename = dirname(__FILE__) . '/data.csv';
 
@@ -43,8 +46,8 @@ while (!feof($file_handle))
 			
 				// get IUCN GeoJSON
 				$command = 'ogr2ogr'
-				 . ' -f Geojson ' . str_replace(' ', '_', $obj->Species) . '.geojson'
-				 . ' ' . $obj->shp . '/' . $obj->shp . '.shp'
+				 . ' -f Geojson ' . str_replace(' ', '_', $obj->Species) . '-iucn' . '.geojson'
+				 . ' ' . $shp_dir . '/' . $obj->shp . '/' . $obj->shp . '.shp'
 				 . ' -sql "SELECT * FROM ' . $obj->shp . ' WHERE binomial=\'' . $obj->Species . '\'"'
 				 . '  -simplify 0.1';
 			 
