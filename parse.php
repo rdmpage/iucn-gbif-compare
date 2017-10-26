@@ -1,6 +1,9 @@
 <?php
 
-// Given a list of species extract GeoJSON from IUCN shape files
+// Given a list of species extract GeoJSON from IUCN shape files and get GBIF GeoJSON
+
+require_once (dirname(__FILE__) . '/lib.php');
+
 
 $shp_dir = dirname(__FILE__) . '/data';
 
@@ -55,8 +58,15 @@ while (!feof($file_handle))
 				 system($command);
 			 
 				 // get GBIF GeoJSON
-			 
-			 
+				 
+				 if (isset($obj->GBIF) && ($obj->GBIF != ''))
+				 {
+				 	$url = 'https://scarlet-broccoli.glitch.me/' . $obj->GBIF . '.geojson';
+
+					$json = get($url);
+					file_put_contents(str_replace(' ', '_', $obj->Species) . '-gbif' . '.geojson', $json);
+				}
+
 			 
 				 // figure out how to merge and compare
 			

@@ -3,9 +3,9 @@ Gorilla gorilla	Western Gorilla	9404	TERRESTRIAL_MAMMALS	2436441
 Ailuropoda melanoleuca	Giant panda		TERRESTRIAL_MAMMALS
 Allochrocebus preussi	Preuss's monkey		TERRESTRIAL_MAMMALS
 Lontra felina	Marine otter		TERRESTRIAL_MAMMALS
-Xenomys nelsoni	Magdalena rat		TERRESTRIAL_MAMMALS
-Leopardus jacobitus	Andean mountain cat		TERRESTRIAL_MAMMALS	not in IUCN
-Ailurus fulgens	Red panda		TERRESTRIAL_MAMMALS
+Xenomys nelsoni	Magdalena rat		TERRESTRIAL_MAMMALS	2437945
+Leopardus jacobitus	Andean mountain cat		TERRESTRIAL_MAMMALS		not in IUCN
+Ailurus fulgens	Red panda		TERRESTRIAL_MAMMALS	5219446
 Thunnus thynnus	Atlantic bluefin tuna		TUNAS_BILLFISHES
-Ptychobranchus greenii	Triangular kidneyshell	18825	species_18825
+Ptychobranchus greenii	Triangular kidneyshell	18825	species_18825	5189347
 Oxyura leucocephala	White headed duck		TERRESTRIAL_MAMMALS	no bird shapefiles in IUCN
