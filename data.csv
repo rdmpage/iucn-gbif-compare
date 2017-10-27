@@ -1,11 +1,11 @@
 Species	Common name	IUCN	shp	GBIF	notes		
 Gorilla gorilla	Western Gorilla	9404	TERRESTRIAL_MAMMALS	2436441
-Ailuropoda melanoleuca	Giant panda		TERRESTRIAL_MAMMALS
-Allochrocebus preussi	Preuss's monkey		TERRESTRIAL_MAMMALS
-Lontra felina	Marine otter		TERRESTRIAL_MAMMALS
+Ailuropoda melanoleuca	Giant panda		TERRESTRIAL_MAMMALS	2433399
+Allochrocebus preussi	Preuss's monkey		TERRESTRIAL_MAMMALS	8238140
+Lontra felina	Marine otter		TERRESTRIAL_MAMMALS	2433737
 Xenomys nelsoni	Magdalena rat		TERRESTRIAL_MAMMALS	2437945
-Leopardus jacobitus	Andean mountain cat		TERRESTRIAL_MAMMALS		not in IUCN
+Leopardus jacobitus	Andean mountain cat		TERRESTRIAL_MAMMALS	2434979	not in IUCN
 Ailurus fulgens	Red panda		TERRESTRIAL_MAMMALS	5219446
-Thunnus thynnus	Atlantic bluefin tuna		TUNAS_BILLFISHES
+Thunnus thynnus	Atlantic bluefin tuna		TUNAS_BILLFISHES	2373980
 Ptychobranchus greenii	Triangular kidneyshell	18825	species_18825	5189347
-Oxyura leucocephala	White headed duck		TERRESTRIAL_MAMMALS	no bird shapefiles in IUCN
+Oxyura leucocephala	White headed duck		TERRESTRIAL_MAMMALS	2498302	no bird shapefiles in IUCN
