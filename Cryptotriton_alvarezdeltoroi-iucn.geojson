@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59234, "binomial": "Cryptotriton alvarezdeltoroi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Cryptotriton", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.31079225448499997, "shape_Area": 0.00384316905959 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -93.059502361999989, 17.353924856000049 ], [ -93.084662610999942, 17.378221825000026 ], [ -93.060365640999976, 17.403382074000035 ], [ -93.035205392999956, 17.379085104000069 ], [ -93.059502361999989, 17.353924856000049 ] ] ], [ [ [ -92.690819877999957, 16.950761276000037 ], [ -92.715980125999977, 16.975058245000071 ], [ -92.691683156999943, 17.000218493000034 ], [ -92.66652290799999, 16.975921524000057 ], [ -92.690819877999957, 16.950761276000037 ] ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 136131, "binomial": "Calotriton arnoldi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2009, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "SALAMANDRIDAE", "genus": "Calotriton", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 0.45109122841499999, "shape_Area": 0.012702175 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2.4864, 41.752735593000068 ], [ 2.3334, 41.747335593000059 ], [ 2.3227, 41.823835593000069 ], [ 2.441, 41.824735593000071 ], [ 2.4864, 41.752735593000068 ] ] ] } }
+]
+}

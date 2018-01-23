@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 58715, "binomial": "Pelophylax shqipericus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2009, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "RANIDAE", "genus": "Pelophylax", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 7.3841889085699997, "shape_Area": 0.497690895 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 19.1732, 42.348535593000065 ], [ 19.4426, 42.339735593000057 ], [ 19.6635, 41.870035593000068 ], [ 19.6549, 40.140535593000038 ], [ 19.3032, 40.427335593000066 ], [ 19.4934, 40.352535593000027 ], [ 19.3216, 40.655735593000031 ], [ 19.3951, 40.910535593000077 ], [ 19.4228, 40.917135593000069 ], [ 19.4304, 40.936435593000056 ], [ 19.4609, 40.946435593000047 ], [ 19.4432, 40.878535593000038 ], [ 19.5361, 40.912835593000068 ], [ 19.4013, 41.414435593000064 ], [ 19.6098, 41.799035593000042 ], [ 19.048, 42.262035593000064 ], [ 19.1732, 42.348535593000065 ] ] ] } }
+]
+}

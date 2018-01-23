@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57780, "binomial": "Cophixalus monticola", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MICROHYLIDAE", "genus": "Cophixalus", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.17797024525800001, "shape_Area": 0.0025204257571700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.255701127000066, -16.524605685999973 ], [ 145.227375923000068, -16.552930889999971 ], [ 145.19905071900007, -16.524605685999973 ], [ 145.227375923000068, -16.496280481999975 ], [ 145.255701127000066, -16.524605685999973 ] ] ] } }
+]
+}

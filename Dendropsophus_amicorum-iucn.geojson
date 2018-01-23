@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 29430, "binomial": "Dendropsophus amicorum", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYLIDAE", "genus": "Dendropsophus", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.15878955977500001, "shape_Area": 0.0018928187463 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.805006806999984, 10.451250023000057 ], [ -70.825956441999949, 10.478461357000072 ], [ -70.789313906999951, 10.503894678000051 ], [ -70.781428804999962, 10.475137245000042 ], [ -70.805006806999984, 10.451250023000057 ] ] ] } }
+]
+}

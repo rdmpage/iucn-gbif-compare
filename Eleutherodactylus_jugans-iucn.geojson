@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56688, "binomial": "Eleutherodactylus jugans", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ELEUTHERODACTYLIDAE", "genus": "Eleutherodactylus", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 1.7200213682900001, "shape_Area": 0.10110393129299999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.256446806999975, 18.481568613000036 ], [ -72.151971213999957, 18.386379739000063 ], [ -71.617984847999935, 18.293512545000056 ], [ -72.244838407999964, 18.274939106000033 ], [ -72.256446806999975, 18.481568613000036 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59419, "binomial": "Thorius munificus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Thorius", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.247793160032, "shape_Area": 0.0032931610881799999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -97.128652534999958, 19.657416688000069 ], [ -97.079757819999941, 19.644391962000043 ], [ -97.075289927999961, 19.621406651000029 ], [ -97.17410031299994, 19.630161288000068 ], [ -97.128652534999958, 19.657416688000069 ] ] ] } }
+]
+}

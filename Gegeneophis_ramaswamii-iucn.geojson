@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59553, "binomial": "Gegeneophis ramaswamii", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "GYMNOPHIONA", "family": "INDOTYPHLIDAE", "genus": "Gegeneophis", "code": "LC", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 2.30599897983, "shape_Area": 0.36187403903299997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 77.193858887000033, 8.423065461000022 ], [ 77.050067219000084, 8.326787072000059 ], [ 76.726216695000062, 8.753163449000056 ], [ 76.788238526000043, 9.021924717000047 ], [ 77.03288019200005, 9.173533637000048 ], [ 77.267184887000042, 9.080500890000053 ], [ 77.311978431000057, 8.560206642000026 ], [ 77.193858887000033, 8.423065461000022 ] ] ] } }
+]
+}

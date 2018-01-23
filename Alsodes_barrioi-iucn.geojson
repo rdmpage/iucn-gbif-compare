@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 928, "binomial": "Alsodes barrioi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2016, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ALSODIDAE", "genus": "Alsodes", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 2.350024721, "shape_Area": 0.23135975991900001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.152105153999969, -38.336361880999959 ], [ -73.367518201999985, -38.172323915999982 ], [ -73.13242156299998, -37.335222493999936 ], [ -72.989817684999934, -37.830895848999944 ], [ -73.008229752999966, -38.238378301999944 ], [ -73.152105153999969, -38.336361880999959 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 136038, "binomial": "Atelopus petersi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "BUFONIDAE", "genus": "Atelopus", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 4.8298816906399997, "shape_Area": 0.59176289090199996 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -78.400083933999952, -1.625064321999957 ], [ -78.422771571999988, -0.173055510999973 ], [ -78.126586470999939, 0.038578971000049 ], [ -78.073711449999962, -1.123716462999937 ], [ -78.405472247999967, -2.218629642999929 ], [ -78.400083933999952, -1.625064321999957 ] ] ] } }
+]
+}

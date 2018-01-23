@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)">   <use xlink:href="#dot" transform="translate(-57.05,-24.45)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.43,-23.4083)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-57.8533,-23.5166)" />   <use xlink:href="#dot" transform="translate(-57.43,-23.4083)" />   <use xlink:href="#dot" transform="translate(-57.4141,-23.4071)" />   <use xlink:href="#dot" transform="translate(-58.0359,-24.5594)" />   <use xlink:href="#dot" transform="translate(-58.0359,-24.5594)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-57.728037,-25.292709)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-58.667953,-27.310499)" />   <use xlink:href="#dot" transform="translate(-60.278958,-25.638796)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-60.438786,-26.791176)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-58.261715,-25.671868)" />   <use xlink:href="#dot" transform="translate(-58.667953,-27.310499)" />   <use xlink:href="#dot" transform="translate(-58.55141,-24.982389)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-57.728037,-25.292709)" />   <use xlink:href="#dot" transform="translate(-60.438786,-26.791176)" />   <use xlink:href="#dot" transform="translate(-57.728037,-25.292709)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-60.278958,-25.638796)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-57.728037,-25.292709)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-57.728037,-25.292709)" />   <use xlink:href="#dot" transform="translate(-60.438786,-26.791176)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-64.818801,-31.688825)" />   <use xlink:href="#dot" transform="translate(-66.121205,-32.903935)" />   <use xlink:href="#dot" transform="translate(-58.887052,-27.446419)" />   <use xlink:href="#dot" transform="translate(-60.278958,-25.638796)" />   <use xlink:href="#dot" transform="translate(-66.121205,-32.903935)" /><polygon class="region" points="-58.667953,-27.310499 -66.121205,-32.903935 -60.278958,-25.638796 -57.8533,-23.5166 -57.43,-23.4083 -57.4141,-23.4071 -57.05,-24.45 -58.667953,-27.310499 " />
+		  </g>
+		</svg>

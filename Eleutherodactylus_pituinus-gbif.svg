@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)">   <use xlink:href="#dot" transform="translate(-70.68314,18.86049)" />   <use xlink:href="#dot" transform="translate(-70.58797,18.6564)" />   <use xlink:href="#dot" transform="translate(-70.4961,18.7278)" />   <use xlink:href="#dot" transform="translate(-70.4961,18.7278)" />   <use xlink:href="#dot" transform="translate(-70.4961,18.7278)" />   <use xlink:href="#dot" transform="translate(-70.4961,18.7278)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.5119,18.8158)" />   <use xlink:href="#dot" transform="translate(-70.574,18.685)" />   <use xlink:href="#dot" transform="translate(-70.574,18.685)" />   <use xlink:href="#dot" transform="translate(-70.805801,18.923599)" />   <use xlink:href="#dot" transform="translate(-70.760431056858,18.930693113026)" />   <use xlink:href="#dot" transform="translate(-70.752730871945,18.912693988072)" /><polygon class="region" points="-70.58797,18.6564 -70.805801,18.923599 -70.760431056858,18.930693113026 -70.5119,18.8158 -70.4961,18.7278 -70.58797,18.6564 " />
+		  </g>
+		</svg>

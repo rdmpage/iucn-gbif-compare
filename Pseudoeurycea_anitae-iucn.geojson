@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59368, "binomial": "Pseudoeurycea anitae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN, Paulina Arias Caballero-CONABIO", "year": 2014, "citation": "IUCN (International Union for Conservation of Nature), Conservation International, NatureServe & CONABIO (Comisión Nacional para el Conocimiento y Uso de la Biodiversidad).", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Pseudoeurycea", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.17579958401599999, "shape_Area": 0.00210303583115 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -97.179771255999981, 16.681987417000073 ], [ -97.188228807999963, 16.715129533000038 ], [ -97.13038768399997, 16.699581967000029 ], [ -97.132440975999941, 16.680612738000036 ], [ -97.179771255999981, 16.681987417000073 ] ] ] } }
+]
+}

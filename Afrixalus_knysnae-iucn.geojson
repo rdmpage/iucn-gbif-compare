@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56065, "binomial": "Afrixalus knysnae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Alex Rebelo", "year": 2016, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & South African Frog Re-assessment Group (SA-FRoG)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYPEROLIIDAE", "genus": "Afrixalus", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 3.2869693849799999, "shape_Area": 0.15584259278000001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 22.498509371000068, -34.03933 ], [ 22.396323601000063, -33.930337987999962 ], [ 23.592232844000023, -33.906159979999984 ], [ 23.663466052000047, -33.982363708999969 ], [ 23.40692, -34.11143 ], [ 22.498509371000068, -34.03933 ] ] ] } }
+]
+}

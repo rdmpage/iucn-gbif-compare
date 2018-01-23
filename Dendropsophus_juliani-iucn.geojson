@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 135876, "binomial": "Dendropsophus juliani", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYLIDAE", "genus": "Dendropsophus", "code": "LC", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 3.3375708203499999, "shape_Area": 0.25445093300600002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -66.652692105999961, -11.302697688999956 ], [ -65.603770606999944, -10.335009413999956 ], [ -65.446785482999985, -10.315386273999934 ], [ -66.238411066999959, -11.167723319999936 ], [ -66.552592884999967, -11.377177865999954 ], [ -66.652692105999961, -11.302697688999956 ] ] ] } }
+]
+}

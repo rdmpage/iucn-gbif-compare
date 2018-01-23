@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 55574, "binomial": "Dendropsophus nahdereri", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYLIDAE", "genus": "Dendropsophus", "code": "LC", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 7.4110620659500004, "shape_Area": 1.29642821318 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -49.760456745999932, -28.511995211999931 ], [ -49.925347040999952, -28.46898035199996 ], [ -49.932516183999951, -28.210891194999931 ], [ -49.065049851999959, -26.009964219999972 ], [ -49.100895567999942, -25.271542465999971 ], [ -48.885821270999941, -25.228527606999933 ], [ -48.878652126999953, -27.070997419999969 ], [ -49.366153867999969, -28.132030619999966 ], [ -49.760456745999932, -28.511995211999931 ] ] ] } }
+]
+}

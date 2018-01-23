@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 48101780, "binomial": "Megophrys damrei", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Harry Leung", "year": 2015, "citation": "International Union for Conservation of Nature (IUCN)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MEGOPHRYIDAE", "genus": "Megophrys", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 0.24857127329299999, "shape_Area": 0.0010638830427199999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 104.037794140000074, 10.612106925000035 ], [ 104.004332970000064, 10.637537414000064 ], [ 104.020989196000073, 10.672634464000055 ], [ 104.06233233100005, 10.628911868000046 ], [ 104.037794140000074, 10.612106925000035 ] ] ] } }
+]
+}

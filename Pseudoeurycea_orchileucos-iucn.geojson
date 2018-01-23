@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59291, "binomial": "Pseudoeurycea orchileucos", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN & Paulina Arias Caballero-CONABIO", "year": 2014, "citation": "International Union for Conservation of Nature (IUCN)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Pseudoeurycea", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.38914589250499998, "shape_Area": 0.0078784037940699998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -96.419049349999966, 17.722717506000038 ], [ -96.398185900999977, 17.770551438000041 ], [ -96.335169919999942, 17.61740902300005 ], [ -96.366395108999939, 17.622307092000028 ], [ -96.419049349999966, 17.722717506000038 ] ] ] } }
+]
+}

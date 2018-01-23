@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59153, "binomial": "Bolitoglossa diaphora", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Bolitoglossa", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.22173041999900001, "shape_Area": 0.00368907061766 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -88.243536723999966, 15.479589666000038 ], [ -88.275261050999973, 15.517784086000063 ], [ -88.217447639999989, 15.533437537000054 ], [ -88.200959337999961, 15.495034404000023 ], [ -88.243536723999966, 15.479589666000038 ] ] ] } }
+]
+}

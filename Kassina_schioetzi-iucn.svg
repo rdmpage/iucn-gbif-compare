@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)"><polygon class="region" points="-7.831000429,8.208127646 -3.676515276,9.721417681 -3.100229397,9.320111685 -2.8561701579999,8.54147111 -3.32482837,6.920135988 -3.8834782939999,6.1272420920001 -4.361900501,5.878541001 -5.268104841,6.1469469680001 -6.831561903,5.842979094 -7.536870463,6.055198585 -7.916839522,6.348406573 -8.4730662969999,7.645489394 -7.831000429,8.208127646 " />
+		  </g>
+		</svg>

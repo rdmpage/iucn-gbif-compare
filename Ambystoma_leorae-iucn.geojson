@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59061, "binomial": "Ambystoma leorae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "AMBYSTOMATIDAE", "genus": "Ambystoma", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 0.195256304869, "shape_Area": 0.0030338160444799999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.673992041999952, 19.278422790000036 ], [ -98.70506844199997, 19.247346389000029 ], [ -98.736144842999977, 19.278422790000036 ], [ -98.70506844199997, 19.309499190000054 ], [ -98.673992041999952, 19.278422790000036 ] ] ] } }
+]
+}

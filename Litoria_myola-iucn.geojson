@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 136003, "binomial": "Litoria myola", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYLIDAE", "genus": "Litoria", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 0.072506753921599998, "shape_Area": 0.00031952497520499999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.631313143000057, -16.830807446999927 ], [ 145.619695017000026, -16.829839269999979 ], [ 145.61243368800001, -16.821125675999951 ], [ 145.64244718000009, -16.822093852999956 ], [ 145.631313143000057, -16.830807446999927 ] ] ] } }
+]
+}

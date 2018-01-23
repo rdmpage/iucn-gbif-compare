@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56893, "binomial": "Pristimantis quantus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Louise Hobin", "year": 2016, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "CRAUGASTORIDAE", "genus": "Pristimantis", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.285936500511, "shape_Area": 0.0052932983643700004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.299666683999988, 4.794069168000021 ], [ -76.242953880999949, 4.832812710000042 ], [ -76.221033242999965, 4.829333800000029 ], [ -76.28350889799998, 4.743744795000055 ], [ -76.299666683999988, 4.794069168000021 ] ] ] } }
+]
+}

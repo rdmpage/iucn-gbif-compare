@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56197, "binomial": "Hyperolius rhodesianus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Evie J Morris", "year": 2013, "citation": "IUCN (International Union for Conservation of Nature), Conservation International.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYPEROLIIDAE", "genus": "Hyperolius", "code": "LC", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 2.6499857984299999, "shape_Area": 0.47037057222899997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.854890693000073, -18.706980261999945 ], [ 25.509288802000071, -18.180352592999952 ], [ 25.863306387000023, -17.915863183999932 ], [ 26.276789637000036, -17.885570875999974 ], [ 26.281258984000033, -18.257877550999979 ], [ 25.854890693000073, -18.706980261999945 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 13997902, "binomial": "Xenopus lenduensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2015, "citation": "International Union for Conservation of Nature (IUCN)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "PIPIDAE", "genus": "Xenopus", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 0.16403762184500001, "shape_Area": 0.00062958584812099997 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.840507485000046, 2.008453579000047 ], [ 30.810056981000059, 1.978588663000039 ], [ 30.829381339000065, 2.021336484000074 ], [ 30.840507485000046, 2.008453579000047 ] ] ], [ [ [ 30.69996670300003, 1.86849838400002 ], [ 30.686498211000071, 1.853858719000073 ], [ 30.682984691000058, 1.86147134600003 ], [ 30.69996670300003, 1.86849838400002 ] ] ] ] } }
+]
+}

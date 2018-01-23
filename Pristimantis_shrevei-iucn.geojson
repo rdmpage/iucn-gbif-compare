@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56961, "binomial": "Pristimantis shrevei", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "CRAUGASTORIDAE", "genus": "Pristimantis", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.422674429691, "shape_Area": 0.0094210564061699992 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -61.223026902999948, 13.189752030000022 ], [ -61.199803143999986, 13.317482706000021 ], [ -61.164967504999936, 13.356963097000062 ], [ -61.172266400999945, 13.199705069000061 ], [ -61.223026902999948, 13.189752030000022 ] ] ] } }
+]
+}

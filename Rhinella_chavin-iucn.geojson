@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 54608, "binomial": "Rhinella chavin", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "BUFONIDAE", "genus": "Rhinella", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.60934906268400002, "shape_Area": 0.026974139752800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.838047993999965, -9.812205267999957 ], [ -75.972292092999965, -9.774449115999971 ], [ -75.993267732999982, -9.656985529999929 ], [ -75.825462609999988, -9.686351425999931 ], [ -75.838047993999965, -9.812205267999957 ] ] ] } }
+]
+}

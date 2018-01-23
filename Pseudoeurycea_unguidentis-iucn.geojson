@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59401, "binomial": "Pseudoeurycea unguidentis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": "revised with HerpNet points", "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Pseudoeurycea", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.216683932233, "shape_Area": 0.0035215122026699998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -96.653456350999988, 17.149973770000031 ], [ -96.683430878999957, 17.169956788000036 ], [ -96.659451256999944, 17.222911786000054 ], [ -96.626479276999987, 17.199931315000072 ], [ -96.653456350999988, 17.149973770000031 ] ] ] } }
+]
+}

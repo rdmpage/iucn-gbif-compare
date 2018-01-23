@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57561, "binomial": "Leptolalax alpinus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MEGOPHRYIDAE", "genus": "Leptolalax", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 2.27450118377, "shape_Area": 0.27208475191100001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 100.403640258000053, 24.724557125000047 ], [ 100.504302918000064, 25.035173334000035 ], [ 100.757397607000087, 24.72168104900004 ], [ 100.789034443000048, 24.097572555000056 ], [ 100.584833046000085, 24.166598380000039 ], [ 100.403640258000053, 24.724557125000047 ] ] ] } }
+]
+}

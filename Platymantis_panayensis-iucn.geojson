@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 17548, "binomial": "Platymantis panayensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "CERATOBATRACHIDAE", "genus": "Platymantis", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 1.70397373538, "shape_Area": 0.0337085193587 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 122.148390415000108, 11.449334211000064 ], [ 122.256157042000041, 11.263079717000039 ], [ 122.147027543000036, 11.196345851000046 ], [ 122.191950230000089, 11.32496801700006 ], [ 122.148390415000108, 11.449334211000064 ] ] ], [ [ [ 122.049146805000078, 11.74984876700006 ], [ 121.925710264000031, 11.792280078000033 ], [ 121.932139251000081, 11.866856321000057 ], [ 122.037574630000108, 11.853998348000061 ], [ 122.049146805000078, 11.74984876700006 ] ] ] ] } }
+]
+}

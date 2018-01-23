@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 18582, "binomial": "Pseudophryne corroboree", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MYOBATRACHIDAE", "genus": "Pseudophryne", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 1.8052981532700001, "shape_Area": 0.108149525554 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 148.280073, -35.938648 ], [ 148.494625, -36.0342 ], [ 148.525556, -36.230151 ], [ 148.2836870000001, -36.463338 ], [ 148.346466, -36.2401 ], [ 148.166786000000116, -36.117602 ], [ 148.280073, -35.938648 ] ] ] } }
+]
+}

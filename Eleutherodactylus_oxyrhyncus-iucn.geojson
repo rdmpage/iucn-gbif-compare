@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56819, "binomial": "Eleutherodactylus oxyrhyncus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ELEUTHERODACTYLIDAE", "genus": "Eleutherodactylus", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 2.1202519801699999, "shape_Area": 0.120355476479 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -74.045458599999961, 18.601590466000061 ], [ -73.956114832999958, 18.530115452000075 ], [ -73.6225647699999, 18.381209174000048 ], [ -74.003764841999953, 18.372274797000046 ], [ -74.212233630999947, 18.589677964000032 ], [ -74.045458599999961, 18.601590466000061 ] ] ], [ [ [ -72.119716575999973, 18.268040403000043 ], [ -72.232885346999979, 18.363340421000032 ], [ -72.060154064999949, 18.506290448000073 ], [ -72.024416557999984, 18.378231049000078 ], [ -72.119716575999973, 18.268040403000043 ] ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 61909, "binomial": "Pseudoeurycea obesa", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2016, "citation": "IUCN (International Union for Conservation of Nature), Conservation International, NatureServe & CONABIO (Comisión Nacional para el Conocimiento y Uso de la Biodiversidad).", "source": "Parra-Olea, García-París, Hanken, and Wake, 2005", "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Pseudoeurycea", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.10048128545, "shape_Area": 0.00080343264869200005 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -96.943918480999969, 18.145405040000071 ], [ -96.959910776999948, 18.129412744000035 ], [ -96.975903072999984, 18.145405040000071 ], [ -96.959910776999948, 18.16139733600005 ], [ -96.943918480999969, 18.145405040000071 ] ] ] } }
+]
+}

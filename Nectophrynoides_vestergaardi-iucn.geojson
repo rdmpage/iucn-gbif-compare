@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 54845, "binomial": "Nectophrynoides vestergaardi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2014, "citation": "IUCN (International Union for Conservation of Nature) & Conservation International.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "BUFONIDAE", "genus": "Nectophrynoides", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 1.33091471233, "shape_Area": 0.063035439797199999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 38.407524523000063, -5.084921734999966 ], [ 38.201169815000071, -4.700235798999927 ], [ 38.230042490000073, -4.62295893299995 ], [ 38.498388530000057, -4.821670873999949 ], [ 38.407524523000063, -5.084921734999966 ] ] ] } }
+]
+}

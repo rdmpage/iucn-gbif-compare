@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56235, "binomial": "Kassina schioetzi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Evie J Morris", "year": 2013, "citation": "IUCN (International Union for Conservation of Nature), Conservation International.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYPEROLIIDAE", "genus": "Kassina", "code": "LC", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 15.3018160186, "shape_Area": 14.836608636 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7.831000428999971, 8.208127646000037 ], [ -3.676515275999975, 9.721417681000048 ], [ -3.100229396999964, 9.320111685000029 ], [ -2.856170157999941, 8.541471110000032 ], [ -3.324828369999977, 6.920135988000027 ], [ -3.883478293999929, 6.127242092000074 ], [ -4.36190050099998, 5.878541001000031 ], [ -5.268104840999968, 6.146946968000066 ], [ -6.831561902999965, 5.842979094000043 ], [ -7.536870462999957, 6.055198585000028 ], [ -7.916839521999975, 6.348406573000034 ], [ -8.473066296999946, 7.645489394000037 ], [ -7.831000428999971, 8.208127646000037 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56281, "binomial": "Leptopelis susanae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Aina Pascual Cuadras", "year": 2012, "citation": "IUCN (International Union for Conservation of Nature) and Conservation International.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ARTHROLEPTIDAE", "genus": "Leptopelis", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 1.68031469681, "shape_Area": 0.067752596270599999 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.706909180000025, 6.231153610000035 ], [ 37.430944960000033, 6.15298673500007 ], [ 37.299545456000033, 5.92277546300005 ], [ 37.246245530000067, 5.991303941000069 ], [ 37.648157058000038, 6.384053195000035 ], [ 37.706909180000025, 6.231153610000035 ] ] ], [ [ [ 36.086334774000079, 7.467444619000048 ], [ 36.048029126000074, 7.504970009000033 ], [ 36.085812804000057, 7.543539316000022 ], [ 36.124118453000051, 7.506013925000047 ], [ 36.086334774000079, 7.467444619000048 ] ] ] ] } }
+]
+}

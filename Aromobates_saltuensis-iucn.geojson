@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 55146, "binomial": "Aromobates saltuensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2009, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "AROMOBATIDAE", "genus": "Aromobates", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 1.33932044221, "shape_Area": 0.028660231678300001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.257512382999948, 7.981427904000043 ], [ -72.203932832999953, 8.081280703000061 ], [ -71.904374435999955, 8.351613890000067 ], [ -71.99448549799996, 8.110505912000065 ], [ -72.257512382999948, 7.981427904000043 ] ] ] } }
+]
+}

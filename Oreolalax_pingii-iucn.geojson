@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57597, "binomial": "Oreolalax pingii", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MEGOPHRYIDAE", "genus": "Oreolalax", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 1.8769932494399999, "shape_Area": 0.20695828048699999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 102.724209852000058, 28.031947302000049 ], [ 102.467609461000052, 27.887133220000067 ], [ 102.487934245000076, 28.606122434000042 ], [ 102.726750450000054, 28.568013465000035 ], [ 102.724209852000058, 28.031947302000049 ] ] ] } }
+]
+}

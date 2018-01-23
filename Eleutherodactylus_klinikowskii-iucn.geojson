@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56693, "binomial": "Eleutherodactylus klinikowskii", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ELEUTHERODACTYLIDAE", "genus": "Eleutherodactylus", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 1.85733953557, "shape_Area": 0.091669630766000001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.106582485999979, 22.123282486000051 ], [ -84.094200977999947, 22.43901093900007 ], [ -83.585527359999958, 22.733071753000047 ], [ -84.000307875999965, 22.399802830000056 ], [ -84.106582485999979, 22.123282486000051 ] ] ] } }
+]
+}

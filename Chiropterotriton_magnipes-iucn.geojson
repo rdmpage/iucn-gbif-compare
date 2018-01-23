@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59227, "binomial": "Chiropterotriton magnipes", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Chiropterotriton", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.73688646624900001, "shape_Area": 0.030441669066200001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -99.292226570999958, 21.204289491000054 ], [ -99.244895701999951, 21.322616663000076 ], [ -99.029540249999968, 21.33208283700003 ], [ -99.056755498999962, 21.270552707000036 ], [ -99.292226570999958, 21.204289491000054 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59162, "binomial": "Bolitoglossa flaviventris", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Bolitoglossa", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 1.5253963933200001, "shape_Area": 0.061933067415699997 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -92.230738438999936, 15.09549405000007 ], [ -92.165239227999962, 14.87226204600006 ], [ -92.50409739, 15.280629575000034 ], [ -92.451297005999947, 15.271272545000045 ], [ -92.230738438999936, 15.09549405000007 ] ] ], [ [ [ -91.918530644999976, 14.924156043000039 ], [ -91.966254043999982, 14.970241994000048 ], [ -91.920168092999972, 15.017965393000054 ], [ -91.872444693999967, 14.971879442000045 ], [ -91.918530644999976, 14.924156043000039 ] ] ] ] } }
+]
+}

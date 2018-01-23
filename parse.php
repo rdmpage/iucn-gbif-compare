@@ -8,7 +8,7 @@ require_once (dirname(__FILE__) . '/lib.php');
 $shp_dir = dirname(__FILE__) . '/data';
 
 $filename = dirname(__FILE__) . '/data.csv';
-$filename = dirname(__FILE__) . '/data-new.csv';
+//$filename = dirname(__FILE__) . '/data-new.csv';
 
 $file_handle = fopen($filename, "r");
 
@@ -43,10 +43,19 @@ while (!feof($file_handle))
 		
 				foreach ($parts as $k => $v)
 				{
-					$obj->{$keys[$k]} = $v;
+					if (isset($keys[$k]))
+					{
+						$obj->{$keys[$k]} = $v;
+					}
 				}
 			
 				print_r($obj);
+				
+				// fix species name, some have authorship info
+				if (preg_match('/(?<name>\w+ \w+)/', $obj->Species, $m))
+				{
+					$obj->Species = $m['name'];
+				}
 			
 				// get IUCN GeoJSON
 				$command = 'ogr2ogr'

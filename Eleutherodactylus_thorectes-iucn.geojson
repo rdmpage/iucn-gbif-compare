@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57004, "binomial": "Eleutherodactylus thorectes", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ELEUTHERODACTYLIDAE", "genus": "Eleutherodactylus", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.22990708024699999, "shape_Area": 0.00345328399942 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.045020489999956, 18.362717230000044 ], [ -73.996564848999981, 18.398668188000045 ], [ -73.973118571999976, 18.346304835000069 ], [ -73.996955620999984, 18.34122480800005 ], [ -74.045020489999956, 18.362717230000044 ] ] ] } }
+]
+}

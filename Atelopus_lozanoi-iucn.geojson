@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 54523, "binomial": "Atelopus lozanoi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Louise Hobin", "year": 2016, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "BUFONIDAE", "genus": "Atelopus", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 3.5522594888499999, "shape_Area": 0.33030636076199998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -73.994551230999946, 4.407300803000055 ], [ -73.813772931999949, 4.77925159800003 ], [ -72.79135821899996, 5.589980413000035 ], [ -73.719249335999962, 4.525242351000031 ], [ -73.994551230999946, 4.407300803000055 ] ] ] } }
+]
+}

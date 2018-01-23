@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56863, "binomial": "Eleutherodactylus pituinus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ELEUTHERODACTYLIDAE", "genus": "Eleutherodactylus", "code": "EN", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 1.9629665226399999, "shape_Area": 0.219752336902 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.737861749999979, 19.15502637000003 ], [ -70.569947915999933, 18.957950630000028 ], [ -70.516091556999982, 18.629916445000049 ], [ -71.102020388999961, 18.943802528000049 ], [ -70.999974000999941, 19.252382349000072 ], [ -70.737861749999979, 19.15502637000003 ] ] ] } }
+]
+}

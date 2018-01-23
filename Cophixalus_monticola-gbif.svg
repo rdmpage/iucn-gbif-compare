@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)">   <use xlink:href="#dot" transform="translate(145.27,-16.510278)" />   <use xlink:href="#dot" transform="translate(145.26757475069,-16.498674420667)" />   <use xlink:href="#dot" transform="translate(145.26757475069,-16.498674420667)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.26757475069,-16.498674420667)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.26757475069,-16.498674420667)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.26757475069,-16.498674420667)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" />   <use xlink:href="#dot" transform="translate(145.27257472536,-16.509230365963)" /><polygon class="region" points="145.27,-16.510278 145.26757475069,-16.498674420667 145.27257472536,-16.509230365963 145.27,-16.510278 " />
+		  </g>
+		</svg>
