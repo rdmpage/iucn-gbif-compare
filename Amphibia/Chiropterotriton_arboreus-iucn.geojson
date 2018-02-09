@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59221, "binomial": "Chiropterotriton arboreus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN, Paulina Arias Caballero-CONABIO", "year": 2014, "citation": "International Union for Conservation of Nature (IUCN)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Chiropterotriton", "code": "CR", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.12214223469, "shape_Area": 0.00118716431675 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -98.670612689999984, 20.710773207000045 ], [ -98.690052476999938, 20.691333420000035 ], [ -98.709492264999938, 20.710773207000045 ], [ -98.690052476999938, 20.730212994000055 ], [ -98.670612689999984, 20.710773207000045 ] ] ] } }
+]
+}

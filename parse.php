@@ -12,6 +12,9 @@ $filename = dirname(__FILE__) . '/mammals.csv';
 //$filename = dirname(__FILE__) . '/test.csv';
 
 //$filename = dirname(__FILE__) . '/data-new.csv';
+$filename = dirname(__FILE__) . '/amphibia.csv';
+$filename = dirname(__FILE__) . '/test.csv';
+
 
 $file_handle = fopen($filename, "r");
 
