@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)">   <use xlink:href="#dot" transform="translate(100.266663,27)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.199997,27.049999)" />   <use xlink:href="#dot" transform="translate(100.666664,27.833334)" />   <use xlink:href="#dot" transform="translate(100.666664,27.833334)" />   <use xlink:href="#dot" transform="translate(100.666664,27.833334)" />   <use xlink:href="#dot" transform="translate(101.23333,28.133329)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" />   <use xlink:href="#dot" transform="translate(100.084152,27.256939)" /><polygon class="region" points="100.199997,27.049999 100.084152,27.256939 100.666664,27.833334 101.23333,28.133329 100.266663,27 100.199997,27.049999 " />
+		  </g>
+		</svg>

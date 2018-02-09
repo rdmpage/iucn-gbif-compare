@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 14486.0, "binomial": "Nelsonia goldmani", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Nelsonia", "code": "EN", "shape_Leng": 2.38560545616, "shape_Area": 0.175616709436 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -102.351050207999947, 19.876616222000052 ], [ -102.101756049999949, 19.526123446000042 ], [ -102.242446811999969, 19.301511878000042 ], [ -102.437439271999949, 19.392837461000056 ], [ -102.336240653999937, 19.55080603600004 ], [ -102.494209227999988, 19.888957517000051 ], [ -102.351050207999947, 19.876616222000052 ] ] ], [ [ [ -103.58764795799999, 19.469353489000071 ], [ -103.661695727999984, 19.489099561000046 ], [ -103.68391005899997, 19.642131619000054 ], [ -103.508663670999965, 19.582893402000025 ], [ -103.58764795799999, 19.469353489000071 ] ] ] ] } }
+]
+}

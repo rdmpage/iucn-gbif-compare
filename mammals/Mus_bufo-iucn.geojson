@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 13954.0, "binomial": "Mus bufo", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "MURIDAE", "genus_name": "Mus", "code": "LC", "shape_Leng": 12.9445126432, "shape_Area": 5.67786626991 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 29.9386, -3.887064406999968 ], [ 29.9156, -4.302164406999964 ], [ 29.7357, -4.37826440799995 ], [ 29.4273, -3.953164406999974 ], [ 29.3273, -4.046764406999955 ], [ 28.7288, -3.874064406999935 ], [ 28.4533, -2.586364406999962 ], [ 28.6531, -1.753764407999938 ], [ 29.1086, -0.835764407999932 ], [ 29.0856, -0.087764407999941 ], [ 29.4401, 0.434235593000039 ], [ 30.2865, 0.862235593000037 ], [ 30.6099, 0.748035593000054 ], [ 30.667, 0.462735592000058 ], [ 30.1904, 0.096435593000024 ], [ 30.2009, -1.334764406999966 ], [ 29.6956, -2.262864407999928 ], [ 29.6495, -2.872864406999952 ], [ 29.9386, -3.887064406999968 ] ] ] } }
+]
+}

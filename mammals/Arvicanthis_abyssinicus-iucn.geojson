@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 2144.0, "binomial": "Arvicanthis abyssinicus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "MURIDAE", "genus_name": "Arvicanthis", "code": "LC", "shape_Leng": 21.067437546200001, "shape_Area": 24.528113795700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 39.2698, 15.338635593000049 ], [ 39.536, 15.232235592000052 ], [ 39.8022, 14.841835593000042 ], [ 40.0861, 13.422335593000071 ], [ 39.9974, 9.766935592000038 ], [ 39.678, 9.021635592000052 ], [ 37.7438, 6.874635592000061 ], [ 37.4422, 6.821335592000025 ], [ 36.7147, 7.566635592000068 ], [ 36.1468, 8.98623559300006 ], [ 36.5727, 12.109235593000051 ], [ 37.4422, 14.220735593000029 ], [ 37.9568, 14.717635592000022 ], [ 38.5956, 15.888735593000035 ], [ 38.7907, 15.977435593000052 ], [ 39.2698, 15.338635593000049 ] ] ] } }
+]
+}

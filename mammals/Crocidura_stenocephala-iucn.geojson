@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 5582.0, "binomial": "Crocidura stenocephala", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "EULIPOTYPHLA", "family_nam": "SORICIDAE", "genus_name": "Crocidura", "code": "EN", "shape_Leng": 2.02408085243, "shape_Area": 0.11173045509399999 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 30.1479, -1.304064406999942 ], [ 29.6869, -1.142764407999948 ], [ 29.6292, -1.04666440699998 ], [ 30.0902, -1.128264406999961 ], [ 30.1479, -1.304064406999942 ] ] ], [ [ [ 28.8031, -2.099764407999942 ], [ 28.7007, -2.086564406999969 ], [ 28.7651, -1.861964407999949 ], [ 28.8543, -1.91476440699995 ], [ 28.8031, -2.099764407999942 ] ] ] ] } }
+]
+}

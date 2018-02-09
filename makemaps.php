@@ -112,6 +112,7 @@ function geojson_to_svg($filename)
 
 
 $filename = dirname(__FILE__) . '/data.csv';
+$filename = dirname(__FILE__) . '/mammals.csv';
 //$filename = dirname(__FILE__) . '/data-new.csv';
 
 $file_handle = fopen($filename, "r");
@@ -174,6 +175,7 @@ while (!feof($file_handle))
 				// html
 				$html .= '<div>' . "\n";
 				$html .= '<h3>' . $obj->Species . '</h3>' . "\n";
+				$html .= '<p><a href="http://www.iucnredlist.org/details/' . $obj->IUCN . '" target="_new">IUCN</a> <a href="https://gbif.org/species/' . $obj->GBIF . '" target="_new">GBIF</a></p>' . "\n";
 				$html .= '<img style="background-image:url(map.jpg)" src="' . $basefilename  . '-iucn.svg" />'. "\n";
 				$html .= '<img style="background-image:url(map.jpg)" src="' . $basefilename  . '-gbif.svg" />'. "\n";
 				

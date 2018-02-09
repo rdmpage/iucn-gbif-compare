@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 14592.0, "binomial": "Neotoma nelsoni", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Neotoma", "code": "CR", "shape_Leng": 0.31697049589100001, "shape_Area": 0.0079949691059399992 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -97.252745551999965, 19.364971471000047 ], [ -97.303193612999962, 19.314523410000049 ], [ -97.353641674999949, 19.364971471000047 ], [ -97.303193612999962, 19.415419533000033 ], [ -97.252745551999965, 19.364971471000047 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 19495.0, "binomial": "Rhinoceros sondaicus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PERISSODACTYLA", "family_nam": "RHINOCEROTIDAE", "genus_name": "Rhinoceros", "code": "CR", "shape_Leng": 0.94989181871100004, "shape_Area": 0.020185925024799999 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.4249, -6.794864407999967 ], [ 105.4767, -6.855264407999925 ], [ 105.2393, -6.768964406999942 ], [ 105.3645, -6.665364407999959 ], [ 105.4249, -6.794864407999967 ] ] ], [ [ [ 107.3306, 11.62943559200005 ], [ 107.2976, 11.649235592000025 ], [ 107.3372, 11.708535593000022 ], [ 107.3701, 11.662335593000023 ], [ 107.3306, 11.62943559200005 ] ] ] ] } }
+]
+}

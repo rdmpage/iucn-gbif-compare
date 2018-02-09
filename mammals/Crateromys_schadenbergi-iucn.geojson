@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 5500.0, "binomial": "Crateromys schadenbergi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": "Luzon", "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "MURIDAE", "genus_name": "Crateromys", "code": "EN", "shape_Leng": 2.7615001381200002, "shape_Area": 0.31302967489900002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.8712, 16.343835593000051 ], [ 120.7247, 16.767935593000061 ], [ 120.8662, 17.278235592000044 ], [ 121.1548, 17.48843559200003 ], [ 121.2264, 17.12863559300007 ], [ 120.8712, 16.343835593000051 ] ] ] } }
+]
+}

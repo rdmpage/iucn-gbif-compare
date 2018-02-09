@@ -8,9 +8,15 @@ require_once (dirname(__FILE__) . '/lib.php');
 $shp_dir = dirname(__FILE__) . '/data';
 
 $filename = dirname(__FILE__) . '/data.csv';
+$filename = dirname(__FILE__) . '/mammals.csv';
+//$filename = dirname(__FILE__) . '/test.csv';
+
 //$filename = dirname(__FILE__) . '/data-new.csv';
 
 $file_handle = fopen($filename, "r");
+
+$force = true;
+$force = false;
 
 
 $count = 0;
@@ -56,27 +62,45 @@ while (!feof($file_handle))
 				{
 					$obj->Species = $m['name'];
 				}
-			
-				// get IUCN GeoJSON
-				$command = 'ogr2ogr'
-				 . ' -f Geojson ' . str_replace(' ', '_', $obj->Species) . '-iucn' . '.geojson'
-				 . ' ' . $shp_dir . '/' . $obj->shp . '/' . $obj->shp . '.shp'
-				 . ' -sql "SELECT * FROM ' . $obj->shp . ' WHERE binomial=\'' . $obj->Species . '\'"'
-				 . '  -simplify 0.1';
-			 
-				 echo $command . "\n";
-				 system($command);
-			 
-				 // get GBIF GeoJSON
-				 
-				 if (isset($obj->GBIF) && ($obj->GBIF != ''))
-				 {
-				 	$url = 'https://scarlet-broccoli.glitch.me/' . $obj->GBIF . '.geojson';
-
-					$json = get($url);
-					file_put_contents(str_replace(' ', '_', $obj->Species) . '-gbif' . '.geojson', $json);
+				
+				$go = true;
+				
+				$filename = str_replace(' ', '_', $obj->Species) . '-iucn' . '.geojson';
+				if (file_exists($filename) && !$force)
+				{
+					$go = false;
 				}
+				if ($go)
+				{
+			
+					// get IUCN GeoJSON
+					$command = 'ogr2ogr'
+					 . ' -f Geojson ' . $filename
+					 . ' ' . $shp_dir . '/' . $obj->shp . '/' . $obj->shp . '.shp'
+					 . ' -sql "SELECT * FROM ' . $obj->shp . ' WHERE binomial=\'' . $obj->Species . '\'"'
+					 . '  -simplify 0.1';
+			 
+					 echo $command . "\n";
+					 system($command);
+				}
+				
+				$filename = str_replace(' ', '_', $obj->Species) . '-gbif' . '.geojson';
+				if (file_exists($filename) && !$force)
+				{
+					$go = false;
+				}
+				if ($go)
+				{
+					 // get GBIF GeoJSON
+				 
+					 if (isset($obj->GBIF) && ($obj->GBIF != ''))
+					 {
+						$url = 'https://scarlet-broccoli.glitch.me/' . $obj->GBIF . '.geojson';
 
+						$json = get($url);
+						file_put_contents($filename, $json);
+					}
+				}
 			 
 				 // figure out how to merge and compare
 			

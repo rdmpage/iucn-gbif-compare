@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)">   <use xlink:href="#dot" transform="translate(-42.493213,-22.731358)" />   <use xlink:href="#dot" transform="translate(-83.0833,40.1667)" />   <use xlink:href="#dot" transform="translate(-40.599722,-19.935556)" />   <use xlink:href="#dot" transform="translate(-43.233334,-22.9)" />   <use xlink:href="#dot" transform="translate(-43.233334,-22.9)" />   <use xlink:href="#dot" transform="translate(-43.233334,-22.9)" />   <use xlink:href="#dot" transform="translate(-43.27014541504,-22.703797246968)" />   <use xlink:href="#dot" transform="translate(-48.400001,-22.783333)" />   <use xlink:href="#dot" transform="translate(-43.233334,-22.9)" />   <use xlink:href="#dot" transform="translate(-41.2851,-11.28517)" />   <use xlink:href="#dot" transform="translate(-43.233334,-22.9)" />   <use xlink:href="#dot" transform="translate(-51.68362,-14.07861)" />   <use xlink:href="#dot" transform="translate(-51.68362,-14.07861)" />   <use xlink:href="#dot" transform="translate(-51.68362,-14.07861)" /><polygon class="region" points="-48.400001,-22.783333 -83.0833,40.1667 -41.2851,-11.28517 -40.599722,-19.935556 -42.493213,-22.731358 -43.233334,-22.9 -48.400001,-22.783333 " />
+		  </g>
+		</svg>

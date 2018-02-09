@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 19819.0, "binomial": "Saguinus leucopus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PRIMATES", "family_nam": "CALLITRICHIDAE", "genus_name": "Saguinus", "code": "EN", "shape_Leng": 11.4090496498, "shape_Area": 4.6546695502000004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.5436, 9.245835593000038 ], [ -73.878, 8.961035593000076 ], [ -73.8157, 8.800935593000077 ], [ -73.8855, 6.999435592000054 ], [ -74.3812, 6.626235592000057 ], [ -74.7321, 5.311635593000062 ], [ -75.2675, 5.162935593000043 ], [ -75.5676, 5.372935593000022 ], [ -75.6401, 5.774035593000065 ], [ -75.8517, 5.963335593000068 ], [ -75.9018, 6.804435592000061 ], [ -75.3226, 7.372635592000051 ], [ -75.1722, 7.996435593000058 ], [ -74.8324, 8.068835593000074 ], [ -74.5839, 8.331435593000037 ], [ -74.4771, 8.898735593000026 ], [ -74.7321, 9.138935593000042 ], [ -74.7321, 9.42373559300006 ], [ -74.5436, 9.245835593000038 ] ] ] } }
+]
+}

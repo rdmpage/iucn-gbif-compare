@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 23324.0, "binomial": "Zyzomys pedunculatus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "MURIDAE", "genus_name": "Zyzomys", "code": "CR", "shape_Leng": 4.2912708757500004, "shape_Area": 0.62912330235900005 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.660410878000107, -23.447291631999974 ], [ 133.942572549000033, -23.521619844999975 ], [ 134.10981102900007, -23.651694216999942 ], [ 133.775334071000088, -23.837514748999979 ], [ 132.158695440000088, -23.837514748999979 ], [ 132.177277494, -23.540201896999974 ], [ 132.660410878000107, -23.447291631999974 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 42635.0, "binomial": "Microtus umbrosus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Microtus", "code": "EN", "shape_Leng": 2.9068174662700001, "shape_Area": 0.15423576777299999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -96.215223293999941, 17.292877505000035 ], [ -96.233969822999939, 17.067919157000063 ], [ -96.122829686999978, 17.061223968000036 ], [ -96.157644668999978, 17.445527812000023 ], [ -96.00767243699994, 17.38928822500003 ], [ -96.050521645999936, 16.717091259000028 ], [ -96.108100270999955, 16.95276190800007 ], [ -96.331719579999969, 16.812162941000054 ], [ -96.347788033999961, 17.232620804000078 ], [ -96.215223293999941, 17.292877505000035 ] ] ] } }
+]
+}

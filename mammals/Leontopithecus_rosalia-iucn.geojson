@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 11506.0, "binomial": "Leontopithecus rosalia", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PRIMATES", "family_nam": "CALLITRICHIDAE", "genus_name": "Leontopithecus", "code": "EN", "shape_Leng": 3.1144421211800002, "shape_Area": 0.35061849506100001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -41.8659, -22.483464407999975 ], [ -42.0191, -22.99756440699997 ], [ -42.656, -22.854964407999944 ], [ -42.314, -22.432864406999954 ], [ -41.7503, -22.285064406999936 ], [ -41.8659, -22.483464407999975 ] ] ] } }
+]
+}

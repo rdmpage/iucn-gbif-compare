@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 136379.0, "binomial": "Crocidura trichura", "presence": 4, "origin": 1, "seasonal": 1, "compiler": "IUCN SSC Small Mammal Specialist Group", "year": 2016, "citation": "IUCN SSC Small Mammal Specialist Group", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Possibly Extinct", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "EULIPOTYPHLA", "family_nam": "SORICIDAE", "genus_name": "Crocidura", "code": "CR", "shape_Leng": 0.45487011680200001, "shape_Area": 0.00408691002646 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 105.67693483100004, -10.488711283999976 ], [ 105.659265911000034, -10.552355115999944 ], [ 105.581077051000079, -10.498782424999945 ], [ 105.689585018000059, -10.456264433999934 ], [ 105.67693483100004, -10.488711283999976 ] ] ], [ [ [ 105.572980265000069, -10.484748576999948 ], [ 105.566205656000079, -10.485137373999976 ], [ 105.565105395000046, -10.467045911999946 ], [ 105.57237351200007, -10.470299220999948 ], [ 105.572980265000069, -10.484748576999948 ] ] ] ] } }
+]
+}

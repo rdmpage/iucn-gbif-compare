@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 4200.0, "binomial": "Cercocebus galeritus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PRIMATES", "family_nam": "CERCOPITHECIDAE", "genus_name": "Cercocebus", "code": "EN", "shape_Leng": 1.1313448236899999, "shape_Area": 0.0164421129262 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 40.110609563000025, -1.795256785999925 ], [ 40.124945736000029, -1.722691305999945 ], [ 40.200583900000026, -2.09064828399994 ], [ 40.184486994000054, -2.253198101999942 ], [ 40.110609563000025, -1.795256785999925 ] ] ] } }
+]
+}

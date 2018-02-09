@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 11343.0, "binomial": "Lasiorhinus krefftii", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": "Epping Forest NP, NW of Clermont, Queensland", "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "DIPROTODONTIA", "family_nam": "VOMBATIDAE", "genus_name": "Lasiorhinus", "code": "CR", "shape_Leng": 0.31699802903399998, "shape_Area": 0.0079963581070900003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 146.796804468000119, -22.342952672999957 ], [ 146.746352024000089, -22.39340511599994 ], [ 146.695899580000059, -22.342952672999957 ], [ 146.746352024000089, -22.292500228999927 ], [ 146.796804468000119, -22.342952672999957 ] ] ] } }
+]
+}

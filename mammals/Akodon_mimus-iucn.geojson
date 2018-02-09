@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 746.0, "binomial": "Akodon mimus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Akodon", "code": "LC", "shape_Leng": 15.220671576599999, "shape_Area": 4.8529725213799999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -65.201499938999973, -18.071264266999947 ], [ -65.977298736999956, -17.96546363899995 ], [ -66.659099578999985, -17.659864424999967 ], [ -67.963998794999952, -16.719364165999934 ], [ -70.279800414999954, -14.36826324499998 ], [ -70.409198760999971, -13.886264800999982 ], [ -70.315143584999987, -13.62417602599993 ], [ -69.210100173999933, -14.109663009999963 ], [ -68.52829933199996, -15.379264831999933 ], [ -67.246898650999981, -16.519563674999972 ], [ -64.825300216999949, -17.589263915999936 ], [ -64.684200286999953, -17.824464797999951 ], [ -65.201499938999973, -18.071264266999947 ] ] ] } }
+]
+}

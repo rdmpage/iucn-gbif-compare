@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 14191.0, "binomial": "Myotis planiceps", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "CHIROPTERA", "family_nam": "VESPERTILIONIDAE", "genus_name": "Myotis", "code": "EN", "shape_Leng": 5.25355948224, "shape_Area": 1.09633630073 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -100.0431, 25.018335593000074 ], [ -99.970355514999937, 23.888467331000072 ], [ -100.2846, 24.010535593000043 ], [ -100.6206, 24.55643559300006 ], [ -101.4815, 24.440935593000063 ], [ -101.734409960999983, 24.585741590000055 ], [ -100.759166246999939, 25.148480680000034 ], [ -100.4316, 25.19683559300006 ], [ -100.0431, 25.018335593000074 ] ] ] } }
+]
+}

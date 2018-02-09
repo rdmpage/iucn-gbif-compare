@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 136582.0, "binomial": "Habromys ixtlani", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Habromys", "code": "CR", "shape_Leng": 0.40483768746100002, "shape_Area": 0.0078406402550100004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -96.524493878999976, 17.566455967000024 ], [ -96.475184708999961, 17.585192818000053 ], [ -96.492986926999947, 17.419012290000069 ], [ -96.519059178999953, 17.438636212000063 ], [ -96.524493878999976, 17.566455967000024 ] ] ] } }
+]
+}

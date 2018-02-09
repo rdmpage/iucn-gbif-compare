@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 136807.0, "binomial": "Nyctophilus nebulosus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "CHIROPTERA", "family_nam": "VESPERTILIONIDAE", "genus_name": "Nyctophilus", "code": "CR", "shape_Leng": 0.0165886213622, "shape_Area": 2.13645126505e-05 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 166.51173210200011, -22.173458098999959 ], [ 166.508501053000032, -22.170763014999977 ], [ 166.510999680000054, -22.168264388999944 ], [ 166.513601303000087, -22.170164107999938 ], [ 166.51173210200011, -22.173458098999959 ] ] ] } }
+]
+}

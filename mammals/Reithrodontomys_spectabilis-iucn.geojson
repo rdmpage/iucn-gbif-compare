@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 19416.0, "binomial": "Reithrodontomys spectabilis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": "Cozumel Island", "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Reithrodontomys", "code": "CR", "shape_Leng": 1.0816888327600001, "shape_Area": 0.042263858592799998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.815757751999968, 20.558364868000069 ], [ -86.738388060999966, 20.595560074000048 ], [ -86.992034911999951, 20.263055802000054 ], [ -87.007804869999973, 20.430728913000053 ], [ -86.815757751999968, 20.558364868000069 ] ] ] } }
+]
+}

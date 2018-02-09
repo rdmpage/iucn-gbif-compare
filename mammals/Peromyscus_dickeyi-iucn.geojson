@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 16657.0, "binomial": "Peromyscus dickeyi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Peromyscus", "code": "CR", "shape_Leng": 0.11322344169199999, "shape_Area": 0.00081104330799600002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -111.967826842999955, 27.426641464000056 ], [ -111.988357543999939, 27.431112289000055 ], [ -111.999610900999983, 27.44875907900007 ], [ -111.972160339999959, 27.454521180000029 ], [ -111.967826842999955, 27.426641464000056 ] ] ] } }
+]
+}

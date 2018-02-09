@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 23327.0, "binomial": "Zyzomys palatalis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN SSC Small Mammal Specialist Group", "year": 2016, "citation": "IUCN SSC Small Mammal Specialist Group", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "MURIDAE", "genus_name": "Zyzomys", "code": "CR", "shape_Leng": 2.0127153047299999, "shape_Area": 0.21936212264 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 137.840899061000073, -17.557532186999936 ], [ 137.655301103000056, -17.538496498999962 ], [ 137.569640507000031, -17.248202256999946 ], [ 137.802827685000011, -16.748515445999942 ], [ 137.936077501000113, -17.31482716499994 ], [ 137.840899061000073, -17.557532186999936 ] ] ] } }
+]
+}

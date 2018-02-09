@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 18267.0, "binomial": "Procyon pygmaeus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": "Cozumel Island", "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "CARNIVORA", "family_nam": "PROCYONIDAE", "genus_name": "Procyon", "code": "CR", "shape_Leng": 1.07882976931, "shape_Area": 0.042270670031300001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -86.7388, 20.571435593000047 ], [ -86.89, 20.349135592000039 ], [ -86.992, 20.263035592000051 ], [ -86.9304, 20.551635593000071 ], [ -86.7388, 20.571435593000047 ] ] ] } }
+]
+}

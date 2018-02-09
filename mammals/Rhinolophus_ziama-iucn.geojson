@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 44786.0, "binomial": "Rhinolophus ziama", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "CHIROPTERA", "family_nam": "RHINOLOPHIDAE", "genus_name": "Rhinolophus", "code": "EN", "shape_Leng": 1.7500021083799999, "shape_Area": 0.20317206974599999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -9.4597, 7.98053559300007 ], [ -9.615, 8.022335592000047 ], [ -9.6125, 8.260435592000022 ], [ -9.2814, 8.596535593000056 ], [ -9.119, 8.414435593000064 ], [ -9.4597, 7.98053559300007 ] ] ] } }
+]
+}

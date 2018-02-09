@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 11622.0, "binomial": "Lepilemur septentrionalis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2014, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PRIMATES", "family_nam": "LEPILEMURIDAE", "genus_name": "Lepilemur", "code": "CR", "shape_Leng": 0.67301450947899999, "shape_Area": 0.0117741551326 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.417690419000053, -12.616156706999959 ], [ 49.493160017000037, -12.569781662999958 ], [ 49.469562130000043, -12.444638579999946 ], [ 49.530123506000052, -12.624092662999942 ], [ 49.417690419000053, -12.616156706999959 ] ] ] } }
+]
+}

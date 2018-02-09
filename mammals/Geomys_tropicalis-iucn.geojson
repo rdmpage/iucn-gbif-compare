@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 9056.0, "binomial": "Geomys tropicalis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "GEOMYIDAE", "genus_name": "Geomys", "code": "CR", "shape_Leng": 0.16087295152, "shape_Area": 0.00179781452713 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -97.914018167999984, 22.386467830000072 ], [ -97.883781621999958, 22.375148705000072 ], [ -97.879129845999955, 22.343711518000077 ], [ -97.906265207999979, 22.340568189000066 ], [ -97.914018167999984, 22.386467830000072 ] ] ] } }
+]
+}
