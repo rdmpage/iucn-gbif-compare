@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 197292, "binomial": "Galaxias eldoni", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN, Freshwater Biodiversity Unit", "year": 2013, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "OSMERIFORMES", "family": "GALAXIIDAE", "genus": "Galaxias", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 4.66389082251, "shape_Area": 0.49785655727700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.370266046000097, -45.192654757999946 ], [ 170.478198920000068, -45.824603948999936 ], [ 169.812500000000114, -46.345833332999973 ], [ 169.737854682000034, -46.089214578999986 ], [ 169.916666667000072, -45.90416666699997 ], [ 169.662853326000118, -45.743408881999983 ], [ 170.4, -45.09166666699997 ], [ 170.370266046000097, -45.192654757999946 ] ] ] } }
+]
+}

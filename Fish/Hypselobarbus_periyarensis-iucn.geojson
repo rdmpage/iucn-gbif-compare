@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 172351, "binomial": "Hypselobarbus periyarensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Ali, A & Raghavan, R.", "year": 2010, "citation": "CRG, 2010", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINIFORMES", "family": "CYPRINIDAE", "genus": "Hypselobarbus", "code": "EN", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 3.8080333794899999, "shape_Area": 0.22752168187800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 77.245833333000064, 10.133333334000042 ], [ 77.141666667000038, 9.65 ], [ 77.4, 9.520833333000041 ], [ 77.275, 9.279166667000027 ], [ 76.670833334000065, 10.141666667000038 ], [ 76.975, 10.033333334000076 ], [ 77.058333333000064, 10.170833333000076 ], [ 77.245833333000064, 10.133333334000042 ] ] ] } }
+]
+}

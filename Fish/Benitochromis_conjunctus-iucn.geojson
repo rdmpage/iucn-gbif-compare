@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 182020, "binomial": "Benitochromis conjunctus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2010, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "PERCIFORMES", "family": "CICHLIDAE", "genus": "Benitochromis", "code": "EN", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 3.7801117017300001, "shape_Area": 0.34355393341500001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.511535644000048, 5.115702311000064 ], [ 9.84583333300003, 5.029166667000027 ], [ 9.554180569000039, 4.543750679000027 ], [ 9.558333333000064, 4.0375 ], [ 9.179166667000061, 4.216666667000027 ], [ 9.387853326000027, 4.597546387000023 ], [ 9.258333334000042, 5.00416666700005 ], [ 9.511535644000048, 5.115702311000064 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 8114, "binomial": "Etheostoma fonticola", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Freshwater Biodiversity Unit, IUCN", "year": 2013, "citation": "NatureServe", "source": "Digital Distribution Maps of the Freshwater Fishes of the Conterminous United States", "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "PERCIFORMES", "family": "PERCIDAE", "genus": "Etheostoma", "code": "EN", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 7.9841524164399997, "shape_Area": 1.19376382237 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -99.329166666999981, 30.241666667000061 ], [ -97.283333333999963, 29.908333334000076 ], [ -97.083333332999985, 29.708333333000041 ], [ -97.233956908999971, 29.163409254000044 ], [ -97.392701889999955, 29.029895019000037 ], [ -97.727160135999952, 29.10478413900006 ], [ -98.341666665999981, 29.8125 ], [ -99.678808593999975, 29.964209832000051 ], [ -99.329166666999981, 30.241666667000061 ] ] ] } }
+]
+}

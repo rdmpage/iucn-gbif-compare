@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 19449277, "binomial": "Pseudophoxinus ninae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2014, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINIFORMES", "family": "CYPRINIDAE", "genus": "Pseudophoxinus", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 1.97060370693, "shape_Area": 0.084620755249899995 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.6, 37.541666667000072 ], [ 30.7, 37.370833333000064 ], [ 30.53333333300003, 37.291666666000026 ], [ 30.27976515000006, 37.500915697000039 ], [ 30.532864210000071, 37.638117642000054 ], [ 30.679166667000061, 37.604166667000072 ], [ 30.6, 37.541666667000072 ] ], [ [ 30.495832412000027, 37.404166667000027 ], [ 30.49138259800003, 37.427772522000055 ], [ 30.412776947000054, 37.40388488800005 ], [ 30.463054657000043, 37.372207642000035 ], [ 30.495832412000027, 37.404166667000027 ] ] ] } }
+]
+}

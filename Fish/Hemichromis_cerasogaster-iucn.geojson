@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 181780, "binomial": "Hemichromis cerasogaster", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2010, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "PERCIFORMES", "family": "CICHLIDAE", "genus": "Hemichromis", "code": "EN", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 4.9428961427699996, "shape_Area": 0.16010224159799999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 18.49403953500007, -1.607262134999928 ], [ 18.267290115000037, -1.9609917399999 ], [ 18.428531647000057, -1.964807510999947 ], [ 18.405563355000027, -2.191043615999945 ], [ 18.596904755000025, -2.107921361999956 ], [ 18.422940349000044, -2.233026268999936 ], [ 18.503913879000038, -2.258037566999974 ], [ 18.376384735000045, -2.310379028999932 ], [ 18.25895500200005, -2.653881787999978 ], [ 18.182935345000033, -2.708374676999938 ], [ 18.301885604000063, -2.111652612999933 ], [ 18.036632538000049, -1.750816344999976 ], [ 18.49403953500007, -1.607262134999928 ] ] ] } }
+]
+}

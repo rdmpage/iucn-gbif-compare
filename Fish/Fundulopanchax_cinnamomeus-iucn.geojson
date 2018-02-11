@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 181673, "binomial": "Fundulopanchax cinnamomeus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2010, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINODONTIFORMES", "family": "NOTHOBRANCHIIDAE", "genus": "Fundulopanchax", "code": "EN", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 7.2483213198499996, "shape_Area": 0.92708113484499999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.90354919400005, 6.139660305000064 ], [ 10.103813341000034, 5.664242215000058 ], [ 9.774646675000042, 5.310046217000036 ], [ 9.84583333300003, 5.020833333000041 ], [ 9.554180569000039, 4.543750679000027 ], [ 9.554166667000061, 4.0375 ], [ 9.179166667000061, 4.216666667000027 ], [ 9.387853326000027, 4.597546387000023 ], [ 9.258333334000042, 5.00416666700005 ], [ 9.445833333000053, 5.166666667000072 ], [ 9.09583333300003, 5.895833333000041 ], [ 9.609270562000063, 5.849432712000066 ], [ 9.65, 6.054166667000061 ], [ 9.90354919400005, 6.139660305000064 ] ] ] } }
+]
+}

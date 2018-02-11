@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 63244, "binomial": "Neolebias lozii", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2007, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CHARACIFORMES", "family": "DISTICHODONTIDAE", "genus": "Neolebias", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 4.8595837519499998, "shape_Area": 0.46556068894199998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 23.004784139000037, -15.20516628699994 ], [ 23.109298027000023, -15.45355835 ], [ 23.393826972000056, -15.329784138999969 ], [ 23.579594591000046, -15.540817599999968 ], [ 23.400861613000075, -15.675330945999974 ], [ 23.258333333000053, -16.220833332999973 ], [ 22.958333333000041, -15.954166665999935 ], [ 22.903813341000046, -15.501742214999979 ], [ 22.4875, -15.3875 ], [ 22.568622843000071, -15.229733954999972 ], [ 23.004784139000037, -15.20516628699994 ] ] ] } }
+]
+}

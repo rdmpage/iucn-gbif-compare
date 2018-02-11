@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 4632, "binomial": "Chiloglanis bifurcus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2007, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "SILURIFORMES", "family": "MOCHOKIDAE", "genus": "Chiloglanis", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 7.7753332040799998, "shape_Area": 1.9486751173200001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 31.489924452000025, -25.096186658999954 ], [ 31.995833333000064, -25.275 ], [ 31.866666666000071, -25.9875 ], [ 31.298043823000057, -26.253599378999979 ], [ 30.23578711600004, -26.145480006999946 ], [ 29.871745131000068, -26.336885748999975 ], [ 29.829166667000038, -25.9125 ], [ 30.133333333000053, -25.566666666999936 ], [ 30.12517734100004, -25.280416530999958 ], [ 30.6125, -25.145833332999928 ], [ 31.081591119000052, -25.253813340999955 ], [ 31.489924452000025, -25.096186658999954 ] ] ] } }
+]
+}

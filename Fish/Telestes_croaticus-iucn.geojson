@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 39274, "binomial": "Telestes croaticus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN Freshwater Biodiversity Unit", "year": 2006, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINIFORMES", "family": "CYPRINIDAE", "genus": "Telestes", "code": "EN", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 4.3539147621099996, "shape_Area": 0.53969620284999997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.975, 45.2125 ], [ 15.740989515000024, 44.803271145000053 ], [ 16.104166666000026, 44.2625 ], [ 15.751742214000046, 44.246186659000045 ], [ 15.055381606000026, 44.570266045000039 ], [ 14.975, 45.2125 ] ] ] } }
+]
+}

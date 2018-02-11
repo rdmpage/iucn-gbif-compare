@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 60632, "binomial": "Oreochromis karomo", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2006, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "PERCIFORMES", "family": "CICHLIDAE", "genus": "Oreochromis", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 4.9016276212100003, "shape_Area": 0.528233894546 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.145190599000045, -4.802031622999948 ], [ 30.37916666700005, -5.1125 ], [ 30.660757786000033, -4.933686659999978 ], [ 30.74340888100005, -5.187146674999951 ], [ 30.9625, -5.1875 ], [ 30.870833333000064, -5.629166665999946 ], [ 29.785749285000065, -5.308759807999934 ], [ 30.0625, -4.93333333299995 ], [ 30.013161214000036, -4.655066257999977 ], [ 30.145190599000045, -4.802031622999948 ] ] ] } }
+]
+}

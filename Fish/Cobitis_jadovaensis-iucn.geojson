@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 184439, "binomial": "Cobitis jadovaensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN Freshwater Biodiversity Unit", "year": 2013, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINIFORMES", "family": "COBITIDAE", "genus": "Cobitis", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 2.6778394951700002, "shape_Area": 0.17027169400600001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.2125, 44.5375 ], [ 15.249401517000024, 44.547916667000038 ], [ 15.00918409600007, 44.72585076200005 ], [ 15.033333334000076, 44.8 ], [ 15.444091119000063, 44.778813341000046 ], [ 15.581618923000065, 44.545480007000037 ], [ 15.829166667000038, 44.483333333000076 ], [ 15.5125, 44.3625 ], [ 15.2125, 44.5375 ] ] ] } }
+]
+}

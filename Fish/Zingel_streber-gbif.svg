@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<svg xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns="http://www.w3.org/2000/svg" 
+	width="360px" height="180px">
+	   <style type="text/css">
+		  <![CDATA[     
+		  .region 
+		  { 
+			fill:blue; 
+			opacity:0.4; 
+			stroke:blue;
+		  }
+		  ]]>
+	   </style>
+
+	<circle id="dot" x="-2" y="-2" r="2" style="stroke:none; stroke-width:0; fill:black; opacity:0.7;"/>
+
+
+	 <image x="0" y="0" width="360" height="180" xlink:href="map.jpg"/>
+
+ 
+	 <g transform="translate(180,90) scale(1,-1)">   <use xlink:href="#dot" transform="translate(16.513449,48.180771)" />   <use xlink:href="#dot" transform="translate(10.918414,48.735522)" />   <use xlink:href="#dot" transform="translate(11.171233,48.738422)" />   <use xlink:href="#dot" transform="translate(11.8425,48.903528)" />   <use xlink:href="#dot" transform="translate(13.15,48.65)" />   <use xlink:href="#dot" transform="translate(11.5938,48.153058)" />   <use xlink:href="#dot" transform="translate(11.5938,48.153099)" />   <use xlink:href="#dot" transform="translate(11.5938,48.153058)" />   <use xlink:href="#dot" transform="translate(11.5938,48.153058)" />   <use xlink:href="#dot" transform="translate(22.233333,46.283333)" />   <use xlink:href="#dot" transform="translate(9.633333,-48.233333)" />   <use xlink:href="#dot" transform="translate(9.633333,48.233333)" />   <use xlink:href="#dot" transform="translate(23.263889,43.833333)" />   <use xlink:href="#dot" transform="translate(21.70895,44.893831)" />   <use xlink:href="#dot" transform="translate(21.019444,45.466667)" />   <use xlink:href="#dot" transform="translate(21.273137,45.648)" />   <use xlink:href="#dot" transform="translate(21.175812,45.645728)" />   <use xlink:href="#dot" transform="translate(18.37,47.755)" />   <use xlink:href="#dot" transform="translate(21.216667,45.75)" />   <use xlink:href="#dot" transform="translate(21.087213,45.588335)" />   <use xlink:href="#dot" transform="translate(21.175812,45.645728)" />   <use xlink:href="#dot" transform="translate(21.566719,44.884895)" />   <use xlink:href="#dot" transform="translate(21.86604,44.820853)" />   <use xlink:href="#dot" transform="translate(21.216667,45.75)" />   <use xlink:href="#dot" transform="translate(10.766667,48.716667)" />   <use xlink:href="#dot" transform="translate(24.778056,45.218088)" />   <use xlink:href="#dot" transform="translate(24.778056,45.218088)" /><polygon class="region" points="24.778056,45.218088 9.633333,-48.233333 9.633333,48.233333 10.766667,48.716667 11.8425,48.903528 16.513449,48.180771 18.37,47.755 22.233333,46.283333 24.778056,45.218088 " />
+		  </g>
+		</svg>

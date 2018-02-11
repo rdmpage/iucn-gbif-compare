@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 184440, "binomial": "Knipowitschia mrakovcici", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN Freshwater Biodiversity Unit", "year": 2013, "citation": "Kottelat, M. & Freyhof, J. (2008)", "source": "Kottelat, M. & Freyhof, J. (2008)", "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "PERCIFORMES", "family": "GOBIIDAE", "genus": "Knipowitschia", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 3.2907256468, "shape_Area": 0.28306711691000003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 16.32951999200003, 44.164924452000037 ], [ 16.5125, 43.704166667000038 ], [ 15.903420003000065, 43.703599379000025 ], [ 15.633801948000041, 44.01875 ], [ 15.784548272000052, 44.138067288000059 ], [ 16.072917514000039, 44.054180230000043 ], [ 16.176956177000022, 44.328599379000025 ], [ 16.32951999200003, 44.164924452000037 ] ] ] } }
+]
+}

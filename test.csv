@@ -1,7 +1,9 @@
 Species	Common name	IUCN	shp	GBIF	notes		
-Crinia pseudinsignifera Main, 1957	False Western Froglet	41138	ANURA	2424584		Least concerned		
+#Crinia pseudinsignifera Main, 1957	False Western Froglet	41138	ANURA	2424584		Least concerned		
 #Bolitoglossa adspersa (Peters, 1863)	Peter's Mushroomtongue Salamander	59135	CAUDATA	2431278		Least concerned		
 #Leptodactylus validus Garman, 1888	Smooth-skinned ditch frog	57172	ANURA	5217599		Least concerned		
 #Hyalinobatrachium nouraguense (Lescure and Marty, 2000)	French–Centrolenelle Des Nouragues	55024	ANURA	2429335		Least concerned		
 #Hypsiboas hobbsi (Cochran and Goin, 1970)	Spanish–Ranita De Hobbs	55504	ANURA	2428840		Least concerned		
 #Chiropterotriton arboreus (Taylor, 1941)	Arboreal Splayfoot Salamander	59221	CAUDATA	2431190		Critically Endangered		
+#Glossogobius bicirrhosus (Weber, 1894)	Bearded Flathead Goby	196327	MARINEFISH	2379397		Least concerned
+Acanthemblemaria rivasi Stephens, 1970	Spotjaw Blenny	47141727	COMBTOOTHBLENNIES	2381379		Least concerned

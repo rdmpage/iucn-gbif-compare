@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 11576, "binomial": "Lepidomeda albivallis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Freshwater Biodiversity Unit, IUCN", "year": 2013, "citation": "NatureServe", "source": "Digital Distribution Maps of the Freshwater Fishes of the Conterminous United States", "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINIFORMES", "family": "CYPRINIDAE", "genus": "Lepidomeda", "code": "CR", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 7.2727297119700003, "shape_Area": 0.82566883526299995 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -114.90416666699997, 39.079166666000049 ], [ -114.896186658999966, 37.968408881000073 ], [ -115.037485419999939, 37.497916666000037 ], [ -114.825567287999945, 37.160289510000041 ], [ -115.1125, 36.920833333000076 ], [ -115.429563903999963, 37.561328804000027 ], [ -115.083686658999966, 38.010757785000067 ], [ -115.499646674999951, 38.360757786000079 ], [ -115.3, 38.633333333000053 ], [ -115.420833332999962, 39.0875 ], [ -115.079166666999981, 39.304166667000061 ], [ -114.90416666699997, 39.079166666000049 ] ] ] } }
+]
+}
