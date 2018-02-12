@@ -6,4 +6,5 @@ Species	Common name	IUCN	shp	GBIF	notes
 #Hypsiboas hobbsi (Cochran and Goin, 1970)	Spanish–Ranita De Hobbs	55504	ANURA	2428840		Least concerned		
 #Chiropterotriton arboreus (Taylor, 1941)	Arboreal Splayfoot Salamander	59221	CAUDATA	2431190		Critically Endangered		
 #Glossogobius bicirrhosus (Weber, 1894)	Bearded Flathead Goby	196327	MARINEFISH	2379397		Least concerned
-Acanthemblemaria rivasi Stephens, 1970	Spotjaw Blenny	47141727	COMBTOOTHBLENNIES	2381379		Least concerned
+#Acanthemblemaria rivasi Stephens, 1970	Spotjaw Blenny	47141727	COMBTOOTHBLENNIES	2381379		Least concerned
+Tomicodon abuelorum Szelistowski, 1990	?	184030	MARINEFISH	2411506		Endangered

@@ -15,7 +15,7 @@ $filename = dirname(__FILE__) . '/mammals.csv';
 $filename = dirname(__FILE__) . '/amphibia.csv';
 $filename = dirname(__FILE__) . '/test.csv';
 
-$filename = dirname(__FILE__) . '/fish.csv';
+//$filename = dirname(__FILE__) . '/fish.csv';
 
 
 $file_handle = fopen($filename, "r");
@@ -85,12 +85,19 @@ while (!feof($file_handle))
 					 . ' -sql "SELECT * FROM ' . $obj->shp . ' WHERE binomial=\'' . $obj->Species . '\'"'
 					 . '  -simplify 0.1';
 					 
-					
+					/*
 					 // fish Parts
 					$command = 'ogr2ogr'
 					 . ' -f Geojson ' . $filename
 					 . ' ' . $shp_dir . '/' . $obj->shp . '/' . $obj->shp . '_PART_3.shp'
 					 . ' -sql "SELECT * FROM ' . $obj->shp . '_PART_3 WHERE binomial=\'' . $obj->Species . '\'"'
+					 . '  -simplify 0.1';
+					 */
+					 
+					 // species-specific shapefile :(
+					$command = 'ogr2ogr'
+					 . ' -f Geojson ' . $filename
+					 . ' ' . $shp_dir . '/species_' . $obj->IUCN . '/species_' . $obj->IUCN . '.shp'
 					 . '  -simplify 0.1';
 					 
 			 
