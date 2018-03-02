@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56912, "binomial": "Pristimantis rhodostichus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "CRAUGASTORIDAE", "genus": "Pristimantis", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 4.9658087333200003, "shape_Area": 0.35810768304700002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -78.804729687999952, -4.208879559999957 ], [ -78.894914731999961, -5.041356884999971 ], [ -77.993064295999943, -5.409034369999972 ], [ -77.750258409999958, -5.617153701999939 ], [ -77.771070342999963, -5.783649166999965 ], [ -78.131810516999963, -5.471470169999975 ], [ -78.929601286999969, -5.228664282999944 ], [ -79.123845995999943, -4.604306288999965 ], [ -78.804729687999952, -4.208879559999957 ] ] ] } }
+]
+}

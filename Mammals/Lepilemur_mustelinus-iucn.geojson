@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 11620.0, "binomial": "Lepilemur mustelinus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2014, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PRIMATES", "family_nam": "LEPILEMURIDAE", "genus_name": "Lepilemur", "code": "NT", "shape_Leng": 10.7090012322, "shape_Area": 2.2034191252099999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.2237, -17.143564406999928 ], [ 49.047, -17.459764407999955 ], [ 49.2621, -17.884164406999957 ], [ 49.0073, -18.572064406999971 ], [ 48.6349, -18.954364407999947 ], [ 48.6399, -19.728964406999978 ], [ 47.8206, -19.743864406999933 ], [ 47.8156, -17.777564406999943 ], [ 48.1185, -17.464764406999961 ], [ 48.1831, -18.93446440699995 ], [ 48.6349, -17.58886440699996 ], [ 48.6338, -16.891364406999969 ], [ 49.2237, -17.143564406999928 ] ] ] } }
+]
+}

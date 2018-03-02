@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 18435631, "binomial": "Bolitoglossa insularis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Laurence Jarvis", "year": 2012, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Bolitoglossa", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.061239010137999997, "shape_Area": 0.00029841449465399999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -85.512410086999978, 11.470189423000022 ], [ -85.50266329699997, 11.46044263400006 ], [ -85.512410086999978, 11.450695845000041 ], [ -85.52215687599994, 11.46044263400006 ], [ -85.512410086999978, 11.470189423000022 ] ] ] } }
+]
+}

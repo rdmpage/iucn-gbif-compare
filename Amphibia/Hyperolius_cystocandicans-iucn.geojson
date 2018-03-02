@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 56128, "binomial": "Hyperolius cystocandicans", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Jennifer Luedtke", "year": 2015, "citation": "International Union for Conservation of Nature (IUCN)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HYPEROLIIDAE", "genus": "Hyperolius", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 6.7414172916300004, "shape_Area": 1.30847487008 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.374353285000041, -0.22869437199995 ], [ 36.165566007000052, 0.36649869300004 ], [ 36.298595941000031, 0.510500167000032 ], [ 36.452883235000058, 0.448099529000046 ], [ 36.480997808000041, 0.207411350000029 ], [ 36.830608500000039, 0.07213665200004 ], [ 38.094121322000035, 0.495837532000053 ], [ 38.038146849000043, 0.140060684000048 ], [ 37.459824161000029, -0.340160818999948 ], [ 36.995380632000035, -0.289735521999944 ], [ 36.63974958700004, -1.184121058999949 ], [ 36.374353285000041, -0.22869437199995 ] ] ] } }
+]
+}

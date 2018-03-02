@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59022, "binomial": "Rhacophorus taipeianus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "RHACOPHORIDAE", "genus": "Rhacophorus", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 4.3915634284999996, "shape_Area": 0.62115399549100003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.697545385000012, 24.227543677000028 ], [ 120.638856130000022, 24.458164984000064 ], [ 121.069727056000033, 24.975321529000041 ], [ 121.598976221000044, 25.282627496000032 ], [ 121.878812321000055, 25.125064488000078 ], [ 121.646779371000093, 24.620212412000058 ], [ 121.250696125000104, 24.685088116000031 ], [ 121.110701185000039, 24.510948068000062 ], [ 120.987778798000022, 24.278761338000038 ], [ 121.069727056000033, 23.981698903000051 ], [ 120.697545385000012, 24.227543677000028 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 17348.0, "binomial": "Falsistrellus mackenziei", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "CHIROPTERA", "family_nam": "VESPERTILIONIDAE", "genus_name": "Falsistrellus", "code": "NT", "shape_Leng": 8.2710135564999998, "shape_Area": 2.3982059068 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 116.427801133000116, -33.261064529999942 ], [ 116.617902756000035, -33.375864028999956 ], [ 116.640989304000072, -34.270654678999961 ], [ 116.920000076000065, -35.063663482999971 ], [ 116.001302719000023, -34.847063064999929 ], [ 115.710901260000014, -34.472564696999939 ], [ 115.025300980000111, -34.254264831999933 ], [ 115.004201889000115, -33.536863326999935 ], [ 115.305402756000035, -33.659263610999972 ], [ 115.588701248, -33.437164305999943 ], [ 115.696100235000017, -32.527164458999948 ], [ 116.427801133000116, -33.261064529999942 ] ] ] } }
+]
+}

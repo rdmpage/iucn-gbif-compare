@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 16577694, "binomial": "Astylosternus laticephalus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Ariadne Angulo", "year": 2013, "citation": "IUCN (International Union for Conservation of Nature) and Conservation International.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "ARTHROLEPTIDAE", "genus": "Astylosternus", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 10.1229150741, "shape_Area": 4.1434206732899996 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.034934016999955, 6.22077532000003 ], [ -0.329888875999927, 5.820479440000042 ], [ -2.199291595999966, 5.000590185000021 ], [ -3.342642074999958, 5.52552458200006 ], [ -4.506970088999935, 5.335556762000067 ], [ -4.234581533999972, 5.880333873000041 ], [ -3.962192978999951, 6.045712639000044 ], [ -2.415641089999951, 6.473593769000047 ], [ -1.256889859999944, 6.578934791000052 ], [ -0.098138629999937, 6.347184545000061 ], [ -0.034934016999955, 6.22077532000003 ] ] ] } }
+]
+}

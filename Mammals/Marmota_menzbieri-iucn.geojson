@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 12827.0, "binomial": "Marmota menzbieri", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "SCIURIDAE", "genus_name": "Marmota", "code": "VU", "shape_Leng": 2.31896114729, "shape_Area": 0.30431582907900001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 70.388209028000063, 42.350153813000077 ], [ 70.914101938000044, 42.497543169000039 ], [ 71.066776649000076, 42.352316004000045 ], [ 70.57151478000003, 41.994833752000034 ], [ 70.184242340000083, 41.972491111000068 ], [ 70.388209028000063, 42.350153813000077 ] ] ] } }
+]
+}

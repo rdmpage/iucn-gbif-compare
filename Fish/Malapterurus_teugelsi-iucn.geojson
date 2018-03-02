@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 182394, "binomial": "Malapterurus teugelsi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2010, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "SILURIFORMES", "family": "MALAPTERURIDAE", "genus": "Malapterurus", "code": "NT", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 6.6975501494499996, "shape_Area": 0.66977798518700005 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -14.172789509999973, 11.882766046000029 ], [ -13.815218607999952, 11.391023933000042 ], [ -13.395947265999951, 11.507174513000052 ], [ -13.453246900999943, 11.271416219000059 ], [ -13.267290242999934, 11.021742418000031 ], [ -13.5625, 10.866666667000061 ], [ -13.869982401999948, 10.934184096000024 ], [ -13.875810919999935, 11.194826593000073 ], [ -14.208333332999928, 11.333333333000041 ], [ -14.517803954999977, 11.049735514000076 ], [ -14.74583333299995, 11.0625 ], [ -14.845833332999973, 11.34583333300003 ], [ -14.314242213999933, 11.57951999200003 ], [ -14.172789509999973, 11.882766046000029 ] ] ] } }
+]
+}

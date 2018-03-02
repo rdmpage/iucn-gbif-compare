@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 55366, "binomial": "Hemiphractus bubalus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "HEMIPHRACTIDAE", "genus": "Hemiphractus", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 13.509691292899999, "shape_Area": 6.0047729687000002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -78.063475678999964, -3.984547440999961 ], [ -78.261527956999942, -3.658343688999935 ], [ -78.249877822999963, -2.446729753999932 ], [ -77.935324204999972, -1.08366407699998 ], [ -77.259616433999952, 0.512404279000066 ], [ -76.502357723999978, 1.316263525000068 ], [ -75.512096334999967, 1.724018214000068 ], [ -75.465495798999939, 1.397814463000032 ], [ -76.432456919999936, -0.128353089999962 ], [ -77.259616433999952, -3.040886587999978 ], [ -77.772222328999987, -3.961247172999947 ], [ -78.063475678999964, -3.984547440999961 ] ] ] } }
+]
+}

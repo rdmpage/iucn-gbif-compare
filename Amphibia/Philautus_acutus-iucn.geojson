@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 58810, "binomial": "Philautus acutus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "RHACOPHORIDAE", "genus": "Philautus", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.95873656131100005, "shape_Area": 0.073143828795400004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 115.107460864000018, 4.086158015000024 ], [ 114.954871264000076, 3.933568415000025 ], [ 114.80228166500001, 4.086158015000024 ], [ 114.954871264000076, 4.238747614000033 ], [ 115.107460864000018, 4.086158015000024 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 19824.0, "binomial": "Saguinus tripartitus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "PRIMATES", "family_nam": "CALLITRICHIDAE", "genus_name": "Saguinus", "code": "NT", "shape_Leng": 8.0881461913599999, "shape_Area": 2.0884450800600001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.626, -1.485664407999934 ], [ -74.6883, -1.810364406999952 ], [ -74.0878, -2.197364406999952 ], [ -74.0656, -2.379764407999971 ], [ -74.8484, -2.112864406999961 ], [ -75.2666, -1.574564406999968 ], [ -76.1429, -1.685764406999965 ], [ -76.8902, -1.410064407999926 ], [ -77.0097, -0.915164407999953 ], [ -76.1071, -0.454664407999928 ], [ -74.626, -1.485664407999934 ] ] ] } }
+]
+}

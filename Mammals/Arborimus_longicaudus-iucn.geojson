@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 42615.0, "binomial": "Arborimus longicaudus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Arborimus", "code": "NT", "shape_Leng": 15.5923336651, "shape_Area": 6.0524941852399996 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -123.1997, 45.615035593000073 ], [ -122.6875, 45.411835593000035 ], [ -121.4634, 45.668935592000025 ], [ -122.1772, 45.05413559200008 ], [ -123.1818, 44.877035593000073 ], [ -123.0863, 44.492535593000071 ], [ -122.2861, 44.459235593000074 ], [ -121.9509, 44.192235593000078 ], [ -122.0528, 43.989435593000053 ], [ -122.6207, 43.872835593000048 ], [ -122.6048, 43.241735592000055 ], [ -122.7753, 42.892635592000033 ], [ -123.6846, 41.531235593000076 ], [ -124.0657, 41.460935593000045 ], [ -124.5607, 42.836735593000071 ], [ -124.1642, 43.816835593000064 ], [ -123.9626, 45.742435593000039 ], [ -123.1997, 45.615035593000073 ] ] ] } }
+]
+}

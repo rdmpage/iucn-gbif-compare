@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 54782, "binomial": "Bufo tuberculatus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "BUFONIDAE", "genus": "Bufo", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 5.5007459685600004, "shape_Area": 1.7876088589700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 99.857455473000073, 29.203263587000038 ], [ 100.345956441000055, 28.893253358000038 ], [ 99.533353869000052, 28.146410532000061 ], [ 99.049550026000077, 28.155804781000029 ], [ 98.856967913000062, 28.66309424800005 ], [ 98.856967913000062, 29.851466795000078 ], [ 99.195160891000057, 30.001774785000066 ], [ 99.857455473000073, 29.203263587000038 ] ] ] } }
+]
+}

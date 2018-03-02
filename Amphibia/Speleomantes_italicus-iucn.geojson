@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 20458, "binomial": "Speleomantes italicus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2009, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Speleomantes", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 9.6559318367699998, "shape_Area": 1.96882832 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 10.5002, 44.478035593000072 ], [ 11.5327, 44.308135593000031 ], [ 12.2597, 43.955935593000049 ], [ 13.2481, 43.297135593000064 ], [ 14.1455, 42.240635593000036 ], [ 13.9297, 42.149735593000059 ], [ 12.3961, 43.365235593000079 ], [ 11.9871, 43.422035593000032 ], [ 11.1353, 43.911035593000065 ], [ 10.249, 43.933235593000063 ], [ 10.5002, 44.478035593000072 ] ] ] } }
+]
+}

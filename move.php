@@ -21,9 +21,6 @@ $filename = dirname(__FILE__) . '/extra2.csv';
 
 $file_handle = fopen($filename, "r");
 
-$force = true;
-$force = false;
-
 
 $count = 0;
 $keys = array();
@@ -72,60 +69,59 @@ while (!feof($file_handle))
 				$go = true;
 				
 				$filename = str_replace(' ', '_', $obj->Species) . '-iucn' . '.geojson';
-				if (file_exists($filename) && !$force)
+				if (file_exists($filename))
 				{
-					$go = false;
-				}
-				if ($go)
-				{
-			
-					// get IUCN GeoJSON
-					$command = 'ogr2ogr'
-					 . ' -f Geojson ' . $filename
-					 . ' ' . $shp_dir . '/' . $obj->shp . '/' . $obj->shp . '.shp'
-					 . ' -sql "SELECT * FROM ' . $obj->shp . ' WHERE binomial=\'' . $obj->Species . '\'"'
-					 . '  -simplify 0.1';
-					 
-					/*
-					 // fish Parts
-					$command = 'ogr2ogr'
-					 . ' -f Geojson ' . $filename
-					 . ' ' . $shp_dir . '/' . $obj->shp . '/' . $obj->shp . '_PART_2.shp'
-					 . ' -sql "SELECT * FROM ' . $obj->shp . '_PART_3 WHERE binomial=\'' . $obj->Species . '\'"'
-					 . '  -simplify 0.1';
-					 */
-					 
-					 
-					 // species-specific shapefile :(
-					$command = 'ogr2ogr'
-					 . ' -f Geojson ' . $filename
-					 . ' ' . $shp_dir . '/species_' . $obj->IUCN . '/species_' . $obj->IUCN . '.shp'
-					 . '  -simplify 0.1';
-					 
-			 
-					 echo $command . "\n";
-					 system($command);
-				}
-				
-				$filename = str_replace(' ', '_', $obj->Species) . '-gbif' . '.geojson';
-				if (file_exists($filename) && !$force)
-				{
-					$go = false;
-				}
-				if ($go)
-				{
-					 // get GBIF GeoJSON
-				 
-					 if (isset($obj->GBIF) && ($obj->GBIF != ''))
-					 {
-						$url = 'https://scarlet-broccoli.glitch.me/' . $obj->GBIF . '.geojson';
+					switch ($obj->shp)
+					{
+						case 'ANURA':
+						case 'CAUDATA':
+							rename($filename, 'Amphibia/' . $filename);
+							break;
 
-						$json = get($url);
-						file_put_contents($filename, $json);
+						case 'FW_FISH':
+							rename($filename, 'Fish/' . $filename);
+							break;
+							
+						case 'TERRESTRIAL_MAMMALS':
+							rename($filename, 'Mammals/' . $filename);
+							break;
+
+						case 'MARINE_MAMMALS':
+							rename($filename, 'Mammals/' . $filename);
+							break;
+							
+						default:
+							break;
 					}
 				}
-			 
-				 // figure out how to merge and compare
+
+				
+				$filename = str_replace(' ', '_', $obj->Species) . '-gbif' . '.geojson';
+				if (file_exists($filename))
+				{
+					switch ($obj->shp)
+					{
+						case 'ANURA':
+						case 'CAUDATA':
+							rename($filename, 'Amphibia/' . $filename);
+							break;
+
+						case 'FW_FISH':
+							rename($filename, 'Fish/' . $filename);
+							break;
+
+						case 'TERRESTRIAL_MAMMALS':
+							rename($filename, 'Mammals/' . $filename);
+							break;
+
+						case 'MARINE_MAMMALS':
+							rename($filename, 'Mammals/' . $filename);
+							break;
+
+						default:
+							break;
+					}
+				}
 			
 			
 			}

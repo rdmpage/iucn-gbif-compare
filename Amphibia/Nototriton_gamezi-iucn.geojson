@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59294, "binomial": "Nototriton gamezi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Nototriton", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.073347335984599998, "shape_Area": 0.00042810253609 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -84.757280788999935, 10.310044110000035 ], [ -84.768954528999984, 10.298370371000033 ], [ -84.780628267999987, 10.310044110000035 ], [ -84.768954528999984, 10.321717849000038 ], [ -84.757280788999935, 10.310044110000035 ] ] ] } }
+]
+}

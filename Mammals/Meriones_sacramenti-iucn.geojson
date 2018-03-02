@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 13168.0, "binomial": "Meriones sacramenti", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "MURIDAE", "genus_name": "Meriones", "code": "VU", "shape_Leng": 4.2826073575499999, "shape_Area": 0.77826328225800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.879118753000057, 30.852588594000053 ], [ 33.659560963000047, 31.114410458000066 ], [ 34.336212158000023, 31.423789978000059 ], [ 34.786049912000067, 32.130463569000028 ], [ 34.990951876000054, 31.507611171000065 ], [ 35.022904197000059, 31.060278679000078 ], [ 34.879118753000057, 30.852588594000053 ] ] ] } }
+]
+}

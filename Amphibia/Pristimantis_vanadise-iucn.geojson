@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57028, "binomial": "Pristimantis vanadise", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "CRAUGASTORIDAE", "genus": "Pristimantis", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 2.37275407963, "shape_Area": 0.085979085044099998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.428673426999978, 8.509414808000031 ], [ -71.510244568999951, 8.750431731000049 ], [ -71.283656846999975, 8.767222061000041 ], [ -71.283656846999975, 8.638318435000031 ], [ -70.90903068199998, 8.722911440000075 ], [ -71.178922649999947, 8.448991233000072 ], [ -71.058075499999973, 8.630261958000062 ], [ -71.428673426999978, 8.509414808000031 ] ] ] } }
+]
+}

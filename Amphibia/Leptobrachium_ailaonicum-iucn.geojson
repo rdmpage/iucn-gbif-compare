@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57624, "binomial": "Leptobrachium ailaonicum", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MEGOPHRYIDAE", "genus": "Leptobrachium", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 4.5569780937899997, "shape_Area": 1.21606173989 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 100.455094098000075, 24.806146801000068 ], [ 100.89059780000008, 24.950888392000024 ], [ 101.77957112200005, 23.811891322000065 ], [ 101.77957112200005, 23.645208824000065 ], [ 101.30730404500008, 23.256282996000039 ], [ 101.043390090000059, 23.353514453000059 ], [ 100.862817384000039, 23.645208824000065 ], [ 100.455094098000075, 24.806146801000068 ] ] ] } }
+]
+}

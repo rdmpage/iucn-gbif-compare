@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 2296, "binomial": "Atelognathus nitoi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "BATRACHYLIDAE", "genus": "Atelognathus", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 0.30347080727800002, "shape_Area": 0.0057443771527600001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.280237006999982, -41.150071570999955 ], [ -71.201632247999953, -41.150071570999955 ], [ -71.20537533199996, -41.224933245999978 ], [ -71.283980089999943, -41.22119016299996 ], [ -71.280237006999982, -41.150071570999955 ] ] ] } }
+]
+}

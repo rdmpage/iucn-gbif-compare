@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 21532, "binomial": "Taudactylus liemi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MYOBATRACHIDAE", "genus": "Taudactylus", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 0.67653895986699997, "shape_Area": 0.0305856549575 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 148.697323, -21.084415 ], [ 148.563198, -21.207649 ], [ 148.491724, -21.174358 ], [ 148.541593, -21.02144 ], [ 148.697323, -21.084415 ] ] ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 55244, "binomial": "Mannophryne herminae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "AROMOBATIDAE", "genus": "Mannophryne", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 6.4035854206399998, "shape_Area": 0.79294789301799995 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -68.214614826999934, 10.540053649000072 ], [ -67.839729308999949, 10.438219070000059 ], [ -66.257975956999985, 10.645549376000076 ], [ -65.984426731999974, 10.375648757000022 ], [ -66.170275739999965, 10.211243865000029 ], [ -67.800028578999957, 10.297020331000056 ], [ -68.479092261999938, 10.111171323000065 ], [ -68.514832455999965, 10.375648757000022 ], [ -68.214614826999934, 10.540053649000072 ] ] ] } }
+]
+}

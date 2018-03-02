@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 60499, "binomial": "Haplochromis oregosoma", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2006, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "PERCIFORMES", "family": "CICHLIDAE", "genus": "Haplochromis", "code": "NT", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 6.9919189835199997, "shape_Area": 1.1073512615900001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.466741265000053, 0.711287435000031 ], [ 30.74526604600004, 0.44362284400006 ], [ 30.475, 0.104166667000072 ], [ 30.25, -0.804166666999947 ], [ 30.079733954000062, -0.864456176999965 ], [ 30.05, -1.0625 ], [ 30.150353326000072, -1.177450900999929 ], [ 30.1375, -1.241666666999947 ], [ 29.68090888100005, -1.082980007999936 ], [ 29.55, -0.85 ], [ 29.643510819000028, -0.47022631699997 ], [ 29.884483337000063, -0.254936992999944 ], [ 29.762688982000043, -0.099951525999927 ], [ 29.900850932000026, 0.43664923800003 ], [ 30.154166667000027, 0.708333334000031 ], [ 30.466741265000053, 0.711287435000031 ] ] ] } }
+]
+}

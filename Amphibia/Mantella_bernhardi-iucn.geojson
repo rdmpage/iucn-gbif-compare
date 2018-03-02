@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57439, "binomial": "Mantella bernhardi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "Jennifer Luedtke", "year": 2017, "citation": "IUCN (International Union for Conservation of Nature) & Conservation International.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MANTELLIDAE", "genus": "Mantella", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 6.6272241818099999, "shape_Area": 1.0853647579400001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 47.80267077600007, -21.257652747999941 ], [ 48.025434487000041, -21.346204977999946 ], [ 47.924193418000073, -22.408019354999965 ], [ 47.497472921000053, -23.928672069999948 ], [ 47.328469676000054, -23.807766497999978 ], [ 47.295601889000068, -23.465072697999972 ], [ 47.586194172000035, -21.583429895999927 ], [ 47.339114378000033, -21.246436926999934 ], [ 47.500016006000067, -21.043937025999981 ], [ 47.80267077600007, -21.257652747999941 ] ] ] } }
+]
+}

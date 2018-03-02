@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 58488, "binomial": "Pterorana khare", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "RANIDAE", "genus": "Pterorana", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 4.1332024936199998, "shape_Area": 0.600801251905 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 94.155718935000039, 25.620605539000053 ], [ 93.858094153000081, 25.724858288000064 ], [ 94.129647079000051, 26.482343636000053 ], [ 94.738030885000057, 25.827869701000054 ], [ 94.155718935000039, 25.620605539000053 ] ] ], [ [ [ 92.891295710000065, 26.951456871000062 ], [ 92.61033971300003, 27.125975613000037 ], [ 92.936363737000079, 27.384877044000064 ], [ 93.022664214000031, 27.215152772000067 ], [ 92.891295710000065, 26.951456871000062 ] ] ] ] } }
+]
+}

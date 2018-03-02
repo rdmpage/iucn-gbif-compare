@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 16697.0, "binomial": "Peromyscus zarhynchus", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Peromyscus", "code": "VU", "shape_Leng": 3.6744308964800001, "shape_Area": 0.50890762213200003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -92.215437575999943, 16.797383805000038 ], [ -91.744633959999987, 16.464849172000072 ], [ -91.884034843999984, 16.345362700000067 ], [ -91.664976311999965, 16.07850957900007 ], [ -92.103006861999972, 16.096345234000069 ], [ -92.832704242999966, 16.700384758000041 ], [ -92.881203766999988, 16.918632615000035 ], [ -92.215437575999943, 16.797383805000038 ] ] ] } }
+]
+}

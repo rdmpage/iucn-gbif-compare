@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 54981, "binomial": "Nymphargus posadae", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "CENTROLENIDAE", "genus": "Nymphargus", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 13.7185761693, "shape_Area": 1.38753590718 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.184718447999956, 1.872267426000064 ], [ -76.465222619999963, 1.01692724000003 ], [ -77.388193951999938, -0.426954911999928 ], [ -77.709368542999982, -0.491189830999929 ], [ -76.488927197999942, 1.449535786000069 ], [ -75.298015247999956, 5.568200110000021 ], [ -75.145275706999939, 5.598748018000038 ], [ -75.063814617999981, 5.384912660000055 ], [ -76.184718447999956, 1.872267426000064 ] ] ] } }
+]
+}

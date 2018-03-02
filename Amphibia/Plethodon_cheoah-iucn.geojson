@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 59333, "binomial": "Plethodon cheoah", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": "Highton and Peabody, 2000", "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Plethodon", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 0.44149423614700001, "shape_Area": 0.015510621051800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -83.487228222999988, 35.352385048000031 ], [ -83.557495104999987, 35.282118166000032 ], [ -83.627761986999985, 35.352385048000031 ], [ -83.557495104999987, 35.422651930000029 ], [ -83.487228222999988, 35.352385048000031 ] ] ] } }
+]
+}

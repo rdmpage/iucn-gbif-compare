@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 58718, "binomial": "Lithobates sierramadrensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "RANIDAE", "genus": "Lithobates", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 8.9600681956199999, "shape_Area": 0.99366431331600003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -99.68420466399999, 17.125546173000032 ], [ -97.95131969199997, 16.567607030000033 ], [ -97.637254623999979, 16.705186291000075 ], [ -97.098006829999974, 16.62178562400004 ], [ -96.873254251999981, 16.341530017000025 ], [ -95.947375651999948, 16.519647465000048 ], [ -95.699440898999967, 16.443908036000039 ], [ -95.679092294999975, 16.288034733000075 ], [ -96.89119227499998, 16.042518023000071 ], [ -98.139688297999953, 16.318383703000052 ], [ -98.407163242999957, 16.645580477000067 ], [ -99.68420466399999, 17.125546173000032 ] ] ] } }
+]
+}

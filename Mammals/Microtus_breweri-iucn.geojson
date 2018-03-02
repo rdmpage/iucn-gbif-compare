@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 13417.0, "binomial": "Microtus breweri", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom_na": "ANIMALIA", "phylum_nam": "CHORDATA", "class_name": "MAMMALIA", "order_name": "RODENTIA", "family_nam": "CRICETIDAE", "genus_name": "Microtus", "code": "VU", "shape_Leng": 0.070487360470600002, "shape_Area": 0.0002038349951 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.3035, 41.335635592000074 ], [ -70.3064, 41.331835592000061 ], [ -70.3337, 41.332735593000052 ], [ -70.3194, 41.344235593000064 ], [ -70.3035, 41.335635592000074 ] ] ] } }
+]
+}

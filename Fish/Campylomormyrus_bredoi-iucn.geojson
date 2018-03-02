@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 182693, "binomial": "Campylomormyrus bredoi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2010, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "OSTEOGLOSSIFORMES", "family": "MORMYRIDAE", "genus": "Campylomormyrus", "code": "VU", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 4.1361864864499998, "shape_Area": 0.417542336598 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.901954461000059, -8.483901116999959 ], [ 29.153406143000041, -8.660673140999961 ], [ 28.71132278400006, -9.341208457999926 ], [ 28.811477662000073, -9.420152663999943 ], [ 28.664242215000058, -9.503813340999955 ], [ 28.503153275000045, -9.365589174999968 ], [ 28.546379089000027, -9.538071631999969 ], [ 28.329166667000038, -9.49583333399994 ], [ 28.347608566000076, -9.082057952999946 ], [ 28.901954461000059, -8.483901116999959 ] ] ] } }
+]
+}

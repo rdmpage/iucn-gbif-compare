@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 57590, "binomial": "Oreolalax jingdongensis", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "ANURA", "family": "MEGOPHRYIDAE", "genus": "Oreolalax", "code": "VU", "marine": "f", "terrestial": "t", "freshwater": "t", "shape_Leng": 3.9473446610299998, "shape_Area": 1.12768696385 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 101.367916608000087, 24.343777105000072 ], [ 101.774400137000043, 24.547018869000055 ], [ 102.546718841000086, 24.506370516000061 ], [ 102.688988077000033, 24.079562811000073 ], [ 102.506070489000081, 23.652755106000029 ], [ 102.018290254000078, 23.530810047000045 ], [ 101.489861667000071, 23.612106753000035 ], [ 101.367916608000087, 24.343777105000072 ] ] ] } }
+]
+}

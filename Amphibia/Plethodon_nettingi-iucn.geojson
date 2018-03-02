@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 17627, "binomial": "Plethodon nettingi", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "IUCN", "year": 2008, "citation": "IUCN (International Union for Conservation of Nature), Conservation International & NatureServe.", "source": "NatureServe, 2005", "dist_comm": "National Element Occurrence Database", "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "AMPHIBIA", "order_": "CAUDATA", "family": "PLETHODONTIDAE", "genus": "Plethodon", "code": "NT", "marine": "f", "terrestial": "t", "freshwater": "f", "shape_Leng": 2.4998857269400001, "shape_Area": 0.13339471444699999 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.440854620999971, 38.896222481000052 ], [ -79.693489850999981, 38.865826665000043 ], [ -80.012297204999982, 38.396475839000061 ], [ -79.676983717999974, 39.049866899000051 ], [ -79.351191227999948, 39.042589970000051 ], [ -79.440854620999971, 38.896222481000052 ] ] ], [ [ [ -79.533052709999936, 38.688802754000051 ], [ -79.637266297999986, 38.731322859000045 ], [ -79.639144232999968, 38.751103250000028 ], [ -79.522915219999959, 38.711855141000058 ], [ -79.533052709999936, 38.688802754000051 ] ] ] ] } }
+]
+}

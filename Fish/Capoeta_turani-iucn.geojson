@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id_no": 19027543, "binomial": "Capoeta turani", "presence": 1, "origin": 1, "seasonal": 1, "compiler": "FBU", "year": 2014, "citation": "IUCN (International Union for Conservation of Nature)", "source": null, "dist_comm": null, "island": null, "subspecies": null, "subpop": null, "legend": "Extant (resident)", "tax_comm": null, "kingdom": "ANIMALIA", "phylum": "CHORDATA", "class": "ACTINOPTERYGII", "order_": "CYPRINIFORMES", "family": "CYPRINIDAE", "genus": "Capoeta", "code": "NT", "marine": "f", "terrestial": "f", "freshwater": "t", "shape_Leng": 6.3169663111899998, "shape_Area": 0.83945582404200003 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 34.887514580000072, 37.78541666700005 ], [ 34.864506361000053, 37.571450975000062 ], [ 35.19166666700005, 37.779166667000027 ], [ 35.620833333000064, 37.56666666700005 ], [ 35.5, 37.1375 ], [ 35.754431153000041, 37.01136271200005 ], [ 35.554166667000061, 36.8125 ], [ 35.558333333000064, 36.5625 ], [ 34.9125, 36.72083333300003 ], [ 34.983900621000032, 37.117700873000047 ], [ 34.770833333000041, 37.420833333000076 ], [ 34.425, 37.445833333000053 ], [ 34.395833334000031, 37.55 ], [ 34.887514580000072, 37.78541666700005 ] ] ] } }
+]
+}
