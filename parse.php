@@ -21,7 +21,7 @@ $filename = dirname(__FILE__) . '/test.csv';
 $file_handle = fopen($filename, "r");
 
 $force = true;
-$force = false;
+//$force = false;
 
 
 $count = 0;
@@ -93,6 +93,7 @@ while (!feof($file_handle))
 					 . ' -sql "SELECT * FROM ' . $obj->shp . '_PART_3 WHERE binomial=\'' . $obj->Species . '\'"'
 					 . '  -simplify 0.1';
 					 */
+					 
 					 
 					 // species-specific shapefile :(
 					$command = 'ogr2ogr'

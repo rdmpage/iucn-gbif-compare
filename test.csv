@@ -7,4 +7,16 @@ Species	Common name	IUCN	shp	GBIF	notes
 #Chiropterotriton arboreus (Taylor, 1941)	Arboreal Splayfoot Salamander	59221	CAUDATA	2431190		Critically Endangered		
 #Glossogobius bicirrhosus (Weber, 1894)	Bearded Flathead Goby	196327	MARINEFISH	2379397		Least concerned
 #Acanthemblemaria rivasi Stephens, 1970	Spotjaw Blenny	47141727	COMBTOOTHBLENNIES	2381379		Least concerned
-Tomicodon abuelorum Szelistowski, 1990	?	184030	MARINEFISH	2411506		Endangered
+#Tomicodon abuelorum Szelistowski, 1990	?	184030	MARINEFISH	2411506		Endangered
+#Alosa vistonica Economidis & Sinis, 1986	Thracian Shad	61393	MARINEFISH	2412683		Critically endangered
+#Badis tuivaiei Vishwanath & Shanta, 2004	?	168342	MARINEFISH	2389462		Endangered
+#Cobitis jadovaensis Mustafić & Mrakovčić, 2008	?	184439	MARINEFISH	2368171		Critically endangered
+#Hypselobarbus periyarensis (Raj, 1941)	Periyar Barb	172351	MARINEFISH	2366557		Endangered
+#Knipowitschia mrakovcici Miller, 2009		184440	MARINEFISH	2375685		Critically endangered
+#Rutilus ylikiensis Economidis, 1991	?	19788	MARINEFISH	2359694		Endangered
+#Scardinius graecus Stephanidis, 1937	Greek Rudd	19947	MARINEFISH	2362671		Critically endangered
+#Telestes croaticus (Steindachner, 1866	Croatian Pijor	39274	MARINEFISH	2363539		Endangered
+Barbodes herrei (Fowler, 1934)	?	18890	FW_FISH	8197733		Critically endangered
+Menidia conchorum Hildebrand & Ginsburg, 1927	Key Silverside	13145	FW_FISH	2412301		Endangered
+Profundulus hildebrandi Miller, 1950	Chiapas Killifish	169366	FW_FISH	2347764	iucn area tiny, maybe over only one lake?	Endangered
+
